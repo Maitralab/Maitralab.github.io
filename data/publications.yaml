@@ -1,0 +1,43 @@
+publications:
+  - code: "berico_2026_cancer_discovery"
+    title: "AI-powered Deep Visual Proteomics reveals critical molecular transitions in pancreatic cancer precursors"
+    authors_text: "**Jimin Min**,Lisa Schweizer, Gijs Zonderland, Benson Chellakkan Selvanesan, Julie H. Thomsen, Lukas Oldenburg, Seong-Woo Bae, Bongjun Kim, Sharía D. Hernández, Gabriela Jez, Vincent Bernard, Benjamin J. Swanson, Kelsey A. Klute, Huamin Wang, Thomas C. Caffrey, Paul M. Grandgenett, Michael A. Hollingsworth, Ishani Ummat, Maximilian T. Strauss, Andreas Mund, Anirban Maitra"
+    year: 2026
+    journal: 'Cancer discovery. <span class="j-year">2026</span>'
+    url_external: "https://doi.org/10.1158/2159-8290.CD-25-1119"
+
+  - code: "wiggins_2025_clinical_cancer_research"
+    title: "Tumor microRNA signatures associate with stage II/III melanoma patient outcomes"
+    authors_text: "**Wiggins, Jennifer M**, Zhang, Qiao, Zhang, Yian, Vand-Rajabpour, Fatemeh, Hanniford, Douglas, He, Linchen, Lu, Yuting, Kenney, Jessica M, Sadeghi, Keimya D, Argibay, Diana, Orlow, Irene, Busam, Klaus J, Lezcano, Cecilia, Lee, Tim K, Luo, Li, Gorlov, Ivan P, Amos, Christopher, Ernstoff, Marc S, Seshan, Venkatraman E, Cust, Anne E, Wilmott, James, Scolyer, Richard A, Mann, Graham J, Reiner, Allison, Kostrzewa, Caroline E, Nagore, Eduardo, Funchain, Pauline, Ko, Jennifer, Edmiston, Sharon N, Conway, Kathleen, Googe, Paul B, Ollila, David W, Lee, Jeffrey E, Rees, Judy R, Thompson, Cheryl L, Gerstenblith, Meg, Bosenberg, Marcus, Gould Rothberg, Bonnie E, Osman, Iman, Saenger, Yvonne, Reynolds, Adam Z, Boyce, Tawny, Holmen, Sheri, Yan, Shaofeng, Brunsgaard, Elise, Bogner, Paul, Kuan, Pei Fen, Thomas, Nancy E, Begg, Colin B, Shen, Ronglai, Berwick, Marianne, Shao, Yongzhao, Polsky, David, Hernando, Eva"
+    year: 2025
+    journal: 'Clinical cancer research. <span class="j-year">2025</span>'
+    url_external: "https://doi.org/10.1158/1078-0432.CCR-24-3785"
+
+  - code: "eskow_2025_disease_models_mechanisms"
+    title: "Modeling metastasis - leveraging novel tools to streamline discovery in advanced cancer"
+    authors_text: "**Eskow, Nicole M**, Hernando, Eva"
+    year: 2025
+    journal: 'Disease models & mechanisms. <span class="j-year">2025</span>'
+    url_external: "https://doi.org/10.1242/dmm.052449"
+
+  - code: "agrawal_2025_science_advances"
+    title: "Integrated in vivo functional screens and multiomics analyses identify α-2,3-sialylation as essential for melanoma maintenance"
+    authors_text: "**Agrawal, Praveen**, Chen, Shuhui, de Pablos, Ana, Vadlamudi, Yellamandayya, Vand-Rajabpour, Fatemeh, Jame-Chenarboo, Faezeh, Kar, Swarnali, Yanke, Amanda Flores, Berico, Pietro, de Vega, Eleazar Miera Saenz, Darvishian, Farbod, Osman, Iman, Lujambio, Amaia, Mahal, Lara K, Hernando, Eva"
+    year: 2025
+    journal: 'Science advances. <span class="j-year">2025</span>'
+    url_external: "https://doi.org/10.1126/sciadv.adg3481"
+
+  - code: "soler_saez_2025_journal_investigative_dermatology"
+    title: "Unveiling Common Transcriptomic Features between Melanoma Brain Metastases and Neurodegenerative Diseases"
+    authors_text: "**Soler-Sáez, Irene**, Karz, Alcida, Hidalgo, Marta R, Gómez-Cabañes, Borja, López-Cerdán, Adolfo, Català-Senent, José F, Prutisto-Chang, Kylie, Eskow, Nicole M, Izar, Benjamin, Redmer, Torben, Kumar, Swaminathan, Davies, Michael A, de la Iglesia-Vayá, María, Hernando, Eva, García-García, Francisco"
+    year: 2025
+    journal: 'Journal of investigative dermatology. <span class="j-year">2025</span>'
+    url_external: "https://doi.org/10.1016/j.jid.2024.09.005"
+
+  - code: "jame_chenarboo_2025_science_advances"
+    title: "Screening the human miRNA interactome reveals coordinated up-regulation in melanoma, adding bidirectional regulation to miRNA networks"
+    authors_text: "**Jame-Chenarboo, Faezeh**, Reyes, Joseph N, Twells, Nicholas M, Ng, Hoi Hei, Macdonald, Dawn, Hernando, Eva, Mahal, Lara K"
+    year: 2025
+    journal: 'Science advances. <span class="j-year">2025</span>'
+    url_external: "https://doi.org/10.1126/sciadv.adr0277"
+

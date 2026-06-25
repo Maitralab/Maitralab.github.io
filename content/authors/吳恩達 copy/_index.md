@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Douglas Biancur
+title: Joy Wang
 
 # Full name (for SEO)
-first_name: Douglas
-last_name: Biancur
+first_name: Joy
+last_name: Wang
 
 # Username (this should match the folder name)
 authors:
-  - Douglas Biancur
+  - 吳恩達
 
 # Is this the primary user of the site?
 superuser: false

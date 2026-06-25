@@ -1,10 +1,11 @@
 .site-header-container {
+  display: none;
   color: #fff;
-  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.67) !important;
+  text-shadow: 0 2px 1px rgba(0, 0, 0, 0.67) !important;
   background-position: 50% 50%;
   background-size: cover;
   .scrim {
-    padding: 0.1em 1em !important;
+    padding: 16em 1em !important;
 
     .site-header {
       text-align: center;
@@ -68,20 +69,23 @@
 }
 
 
-.universal-wrapper h1 {
-    text-align: center;
-    font-size: 1.8rem !important;
-}
 
-h1 {
-  font-size: 1.5rem;
-}
+#section-slider {
 
+    .carousel-inner {
+      .hero-title {
+        padding: 1rem;
+      }
+      .hero-lead  {
+        max-width: 100% !important;
+      }
+      .wg-hero {
+        margin: auto 6rem !important;
+        max-width: 100%;
+      }
+    }
 
-.site-header-container .scrim .title {
-    font-size: 2rem;
-    color: #fff;
-}
+  }
 
 
 
@@ -98,5 +102,18 @@ h1 {
       order: 0; /* 恢复默认文档流顺序 */
     }
   }
-}
 
+  #section-slider {
+
+    .carousel-inner {
+      .hero-lead  {
+        font-size: 0.9rem !important;
+      }
+      .wg-hero {
+        margin: 3rem 1rem !important;
+      }
+    }
+
+  }
+
+}

@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # title: Maitra Lab @ NYU School of Medicine
-title: Maitra Lab
+title: Maitra Lab @ NYU School of Medicine
 baseURL: 'https://maitralab.github.io/' # Website URL
 
 ############################

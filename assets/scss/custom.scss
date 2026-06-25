@@ -75,9 +75,12 @@
     .carousel-inner {
       .hero-title {
         padding: 1rem;
+        line-height: 0.5!important;
+        font-size: 2rem!important;
       }
       .hero-lead  {
         max-width: 100% !important;
+        line-height: 1.4!important;
       }
       .wg-hero {
         margin: auto 6rem !important;

@@ -13,8 +13,10 @@ sections:
       user_groups:
           - Principle Investigator
           - Researchers
-          - Grad Students
-          - Administration
+          - Lab Manager
+          - Research/Physician Scientists
+          - Postdoctoral Fellows
+          - Graduate Students
           - Visitors
           - Alumni
       sort_by: Params.last_name

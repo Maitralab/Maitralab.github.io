@@ -13,7 +13,7 @@ top_bg: images/research/bj1.jpg
 ##  &nbsp;
 
 {{< split image="images/labnews/202606.jpg" alt="" reverse="false" >}}
-**Celebrate all the good news in June**
+**Celebrate all the good news from June!**
 
 Patients with primary melanomas that are clinically and histologically similar at diagnosis often have vastly different outcomes. Whereas some are cured after initial surgical resection, others develop local recurrence and distant metastases. Despite recent therapeutic advances, still many metastatic patients eventually die of their disease. Such highly variable outcomes suggest underlying biological differences in tumors (cell-intrinsic) and/or the patients themselves (host, cell-extrinsic, e.g. immune response). Our lab is searching for molecular alterations in tumors that can be robustly measured at diagnosis and could be useful prognostic markers. Moreover, given that some of these factors may also drive disease progression, their study may yield novel insights into melanoma biology and reveal new therapeutic targets.
 {{< /split >}}

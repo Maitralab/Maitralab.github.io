@@ -17,7 +17,7 @@ main:
     weight: 30
 
   - name: Lab news
-    url: event
+    url: labnews
     weight: 50
 
   - name: Publications

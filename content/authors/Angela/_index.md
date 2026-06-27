@@ -4,7 +4,7 @@ title: Angela Liu
 
 # Full name (for SEO)
 first_name: Angela
-last_name: Liu
+last_name: i_Liu
 
 # Username (this should match the folder name)
 authors:
@@ -70,7 +70,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Graduate Students
+  - Lab Members
 
 ---
 <br><br>

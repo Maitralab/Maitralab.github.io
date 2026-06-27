@@ -4,7 +4,7 @@ title: Srinjoy Sil
 
 # Full name (for SEO)
 first_name: Srinjoy
-last_name: Sil
+last_name: h_Sil
 
 # Username (this should match the folder name)
 authors:
@@ -70,7 +70,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Research/Physician Scientists
+  - Lab Members
 
 ---
 <br><br>

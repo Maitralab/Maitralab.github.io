@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Peter Yu
+title: Jimin Min
 
 # Full name (for SEO)
-first_name: Peter
-last_name: Yu
+first_name: Jimin
+last_name: 01Min
 
 # Username (this should match the folder name)
 authors:
-  - PeterYu
+  - Jimin
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Medical Oncologist
+role: Instructor
 
 # Organizations/Affiliations
 organizations:
@@ -74,6 +74,6 @@ user_groups:
 
 ---
 <br><br>
-Passionate about understanding resistance to KRAS inhibitors in pancreatic cancer and translational research.
+Srinjoy completed his MD and PhD at the NYU Grossman School of Medicine through the NIH-funded NYU Medical Scientist Training Program (MSTP). His thesis work in the lab of Liam Holt in the Institute for Systems Genetics focused on the biochemistry underlying the propagation of the LINE-1 retrotransposon, the only autonomously active transposable element in the human genome which comprises 17% of the human genomic sequence. He completed his Internal Medicine intern year at NYU's Manhattan campus and is currently in residency training in Radiation Oncology at NYU. He was selected as a Holman Research Pathway trainee for extended research time during residency training, which he is using to study the effects of the aging pancreatic microenvironment on the progression of PanIN premalignant lesions in the Maitra lab. 
 <br><br>
-*Love exploring restaurants in NYC!
+*In his spare time, he enjoys practicing piano improvisation, playing tennis, and trying out new restaurants.

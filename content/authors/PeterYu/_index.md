@@ -1,10 +1,10 @@
 ---
 # Display name
 title: Peter Yu
-
+weight: 70
 # Full name (for SEO)
 first_name: Peter
-last_name: Yu
+last_name: g_Yu
 
 # Username (this should match the folder name)
 authors:

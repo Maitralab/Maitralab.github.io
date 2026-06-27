@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Bong Jun Kim
-
+weight: 30
 # Full name (for SEO)
 first_name: Bong Jun
 last_name: Kim

@@ -1,10 +1,10 @@
 ---
 # Display name
 title: Ruohong Wang
-
+weight: 60
 # Full name (for SEO)
 first_name: Ruohong
-last_name: 05Wang
+last_name: Wang
 
 # Username (this should match the folder name)
 authors:

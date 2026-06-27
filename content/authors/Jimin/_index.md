@@ -1,10 +1,10 @@
 ---
 # Display name
 title: Jimin Min
-
+weight: 10
 # Full name (for SEO)
 first_name: Jimin
-last_name: 01Min
+last_name: Min
 
 # Username (this should match the folder name)
 authors:

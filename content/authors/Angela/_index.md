@@ -1,10 +1,11 @@
 ---
 # Display name
 title: Angela Liu
+weight: 100
 
 # Full name (for SEO)
 first_name: Angela
-last_name: i_Liu
+last_name: Liu
 
 # Username (this should match the folder name)
 authors:

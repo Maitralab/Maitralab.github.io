@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Anirban Maitra
-
+weight: 00
 # Full Name (for SEO)
 first_name: Anirban
 last_name: Maitra
@@ -69,7 +69,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Principle Investigator
+  - Principal Investigator
 #  - Researchers
 ---
 

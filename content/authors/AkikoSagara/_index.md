@@ -1,10 +1,10 @@
 ---
 # Display name
 title: Akiko Sagara
-
+weight: 40
 # Full name (for SEO)
 first_name: Akiko
-last_name: d_Sagara
+last_name: Sagara
 
 # Username (this should match the folder name)
 authors:

@@ -1,10 +1,11 @@
 ---
 # Display name
 title: Albert Sohn
+weight: 00
 
 # Full name (for SEO)
 first_name: Albert
-last_name: a_Sohn
+last_name: Sohn
 
 # Username (this should match the folder name)
 authors:

@@ -1,10 +1,10 @@
 ---
 # Display name
 title: Srinjoy Sil
-
+weight: 80
 # Full name (for SEO)
 first_name: Srinjoy
-last_name: h_Sil
+last_name: Sil
 
 # Username (this should match the folder name)
 authors:

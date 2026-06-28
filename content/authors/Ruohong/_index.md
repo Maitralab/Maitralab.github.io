@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Ruohong Wang
-weight: 60
+weight: 50
 # Full name (for SEO)
 first_name: Ruohong
 last_name: Wang
@@ -74,6 +74,6 @@ user_groups:
 
 ---
 <br><br>
-Passionate about understanding resistance to KRAS inhibitors in pancreatic cancer and translational research.
+Cancer metabolism and tumor microenvironment. Integrating metabolomics, functional genomics and in vitro / in vivo models to identify metabolic vulnerabilities in PDAC that can be translated into new therapeutic strategies.
 <br><br>
-*Love exploring restaurants in NYC!
+*Enjoy exploring new experiences and appreciating the simple joys of life.

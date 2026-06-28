@@ -19,7 +19,7 @@ role: Lab Manager
 
 # Organizations/Affiliations
 organizations:
-  - name: NYU Grossman School of Mdicine  abert.sohn@nyulangone.org
+  - name: NYU Grossman School of Mdicine
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Kohki Oyama
-weight: 50
+weight: 60
 # Full name (for SEO)
 first_name: Kohki
 last_name: Oyama

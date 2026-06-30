@@ -75,6 +75,6 @@ user_groups:
 
 ---
 <br><br>
-Angela 
+Angela is a Vilcek PhD student in the Maitra lab. Angela was born and raised in NYC and did her undergrad at Northeastern University. She came back to NYC for grad school, where she is interested in studying the gut microbiome and PDAC-associated pain. 
 <br><br>
-*Angela is happy every day!
+* Outside of lab, Angela loves going to concerts and shows, hiking, and playing piano. 

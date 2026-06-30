@@ -48,16 +48,16 @@ bio: Cancer cell plasticity in the lung and pancreatic cancer. Enjoying online n
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:Jimin.Min@nyulangone.org'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
+    link: https://x.com/jiminmin_v
+  # - icon: google-scholar
+  #   icon_pack: ai
+  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: linkedin
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://www.linkedin.com/in/jimin-min-b44157161/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -74,6 +74,6 @@ user_groups:
 
 ---
 <br><br>
-Srinjoy completed his MD and PhD at the NYU Grossman School of Medicine through the NIH-funded NYU Medical Scientist Training Program (MSTP). His thesis work in the lab of Liam Holt in the Institute for Systems Genetics focused on the biochemistry underlying the propagation of the LINE-1 retrotransposon, the only autonomously active transposable element in the human genome which comprises 17% of the human genomic sequence. He completed his Internal Medicine intern year at NYU's Manhattan campus and is currently in residency training in Radiation Oncology at NYU. He was selected as a Holman Research Pathway trainee for extended research time during residency training, which he is using to study the effects of the aging pancreatic microenvironment on the progression of PanIN premalignant lesions in the Maitra lab. 
+My research centers on understanding pancreatic cancer pathogenesis using spatial omics technologies, including spatial transcriptomics and spatial proteomics, to map the molecular and cellular architecture underlying disease progression from precursor lesions to metastasis.
 <br><br>
-*In his spare time, he enjoys practicing piano improvisation, playing tennis, and trying out new restaurants.
+* Enjoy exploring new places & reading! 

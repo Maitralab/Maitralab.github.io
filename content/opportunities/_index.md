@@ -7,7 +7,7 @@ top_bg: images/opportunities/o1.png
 
 ---
 
-# <div style = "text-align: center;">Opportunities</div> 
+## <div style = "text-align: center;">Opportunities</div> 
 
 ##  &nbsp;
 **The Maitra Lab at NYU Grossman School of Medicine and Perlmutter Cancer Center (PCC) is recruiting for a postdoctoral fellow.**

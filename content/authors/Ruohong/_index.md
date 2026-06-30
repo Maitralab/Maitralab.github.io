@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Ruohong Wang
-weight: 50
+weight: 60
 # Full name (for SEO)
 first_name: Ruohong
 last_name: Wang
@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Cancer cell plasticity in the lung and pancreatic cancer. Enjoying online novels.
+bio: Tumor microenvironment and cancer metabolism
 
 # interests:
 #   - Artificial Intelligence
@@ -74,6 +74,6 @@ user_groups:
 
 ---
 <br><br>
-Cancer metabolism and tumor microenvironment. Integrating metabolomics, functional genomics and in vitro / in vivo models to identify metabolic vulnerabilities in PDAC that can be translated into new therapeutic strategies.
+Cancer metabolism and tumor microenvironment. Integrating metabolomics, functional genomics and in vitro / in vivo models to identify metabolic vulnerabilities in PDAC.<br>Co-mentored by Dr. Alec C. Kimmelman
 <br><br>
 *Enjoy exploring new experiences and appreciating the simple joys of life.

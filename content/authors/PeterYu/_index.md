@@ -48,16 +48,16 @@ bio: Cancer cell plasticity in the lung and pancreatic cancer. Enjoying online n
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:peter.yu@nyulangone.org'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
+    link: https://x.com/PeterYuMD
+  # - icon: google-scholar
+  #   icon_pack: ai
+  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: linkedin
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://www.linkedin.com/in/peter-yu-md/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -74,6 +74,6 @@ user_groups:
 
 ---
 <br><br>
-Passionate about understanding resistance to KRAS inhibitors in pancreatic cancer and translational research.
+Dr. Peter Yu is a board-certified medical oncologist specialized in gastrointestinal malignancies, in particular pancreatic cancer. He completed MD training at The Ohio State University with the Dean's Research Achievement Award mentored by Denis Guttridge and Raphael Pollock studying miRNA biology and metabolism in soft tissue sarcomas. He completed Internal Medicine residency training at Case Western Reserve University/University Hospitals Cleveland in the ABIM Research Track and finished his hematology/oncology training at NYU Grossman School of Medicine. During fellowship, he was mentored by Drs. Alec Kimmelman and co-mentored by Dr. Andy Aguirre at the DFCI, focused on understanding mechanisms of resistance to RAS inhibitors in pancreatic cancer. He has been awarded an NIH/NCI K12 Paul Calabresi Career Development Award, NIH/NCI LRP, and Conquer Cancer/Swim Across American Young Investigator Award. Now he is enjoying mentorship with Dr. Anirban Maitra during his transition to independence at NYU Langone as a translational physician scientist.
 <br><br>
 *Love exploring restaurants in NYC!

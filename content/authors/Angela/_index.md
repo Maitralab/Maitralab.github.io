@@ -19,7 +19,7 @@ role: Graduate Student
 
 # Organizations/Affiliations
 organizations:
-  - name: NYU Grossman School of Mdicine
+  - name: NYU Grossman School of Medicine
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

@@ -74,6 +74,6 @@ user_groups:
 
 ---
 <br><br>
-Cancer metabolism and tumor microenvironment. Integrating metabolomics, functional genomics and in vitro / in vivo models to identify metabolic vulnerabilities in PDAC.<br>Co-mentored by Dr. Alec C. Kimmelman
+Cancer metabolism and tumor microenvironment. Integrating metabolomics, functional genomics and in vitro / in vivo models to identify metabolic vulnerabilities in PDAC.<br>Co-mentored by Dr. Alec Kimmelman
 <br><br>
 *Enjoy exploring new experiences and appreciating the simple joys of life.

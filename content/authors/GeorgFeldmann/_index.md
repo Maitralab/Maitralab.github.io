@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Bong Jun Kim
-weight: 30
+title: Georg Feldmann
+weight: 90
 # Full name (for SEO)
-first_name: Bong Jun
-last_name: Kim
+first_name: Georg
+last_name: Feldmann
 
 # Username (this should match the folder name)
 authors:
-  - BongjunKim
+  - GeorgFeldmann
 
 # Is this the primary user of the site?
 superuser: false
@@ -74,6 +74,6 @@ user_groups:
 
 ---
 <br><br>
-Cancer cell plasticity in the lung and pancreatic cancer. 
-<br><br>
-*Enjoying online novels.
+Hematology and Oncology faculty, University of Bonn, Germany
+
+

@@ -1,5 +1,13 @@
 publications:
-  - code: "berico_2026_cancer_discovery"
+
+  - code: "11berico_2026_acs"
+    title: "Clinicopathologic Characteristics of Brain Metastasis of Pancreatic Ductal Adenocarcinoma."
+    authors_text: "**Shaimaa Elzamly**, Mouaz Alsawas, Mahmoud M G Yousef, Dan Zhao, Matthew Hg Katz, Laura R Prakash, Hua Wang, Ziang Li, Robert A Wolff, Anirban Maitra, Huamin Wang"
+    year: 2026
+    journal: 'The American Journal of Surgical Pathology. <span class="j-year">2026</span>'
+    url_external: "https://pubmed.ncbi.nlm.nih.gov/40936196/"
+
+  - code: "11berico_2026_cancer_discovery"
     title: "AI-powered Deep Visual Proteomics reveals critical molecular transitions in pancreatic cancer precursors"
     authors_text: "**Jimin Min**,Lisa Schweizer, Gijs Zonderland, Benson Chellakkan Selvanesan, Julie H. Thomsen, Lukas Oldenburg, Seong-Woo Bae, Bongjun Kim, Sharía D. Hernández, Gabriela Jez, Vincent Bernard, Benjamin J. Swanson, Kelsey A. Klute, Huamin Wang, Thomas C. Caffrey, Paul M. Grandgenett, Michael A. Hollingsworth, Ishani Ummat, Maximilian T. Strauss, Andreas Mund, Anirban Maitra"
     year: 2026

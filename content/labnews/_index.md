@@ -12,6 +12,13 @@ top_bg: images/research/bj1.jpg
 
 ##  &nbsp;
 
+{{< split image="images/labnews/202607.jpg" alt="" reverse="false" >}}
+**Say goodbye to Bong Jun! <July 2026>**
+
+{{< /split >}}
+
+##  &nbsp;
+
 {{< split image="images/labnews/202606.jpg" alt="" reverse="false" >}}
 **Celebrate all the good news from June! <June 2026>**
 

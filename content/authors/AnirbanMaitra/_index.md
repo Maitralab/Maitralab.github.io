@@ -21,21 +21,33 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Pancreatic Cancer
+  - Early Detection & Biomarkers
+  - Cancer Interception
+  - Molecular & Translational Pathology
+  - Liquid Biopsy
+  - Tumor Microenvironment
+  - Gastrointestinal Cancer
+  - Clinical Trials
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      #year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MBBS (Bachelor of Medicine, Bachelor of Surgery)
+      institution: All India Institute of Medical Sciences (AIIMS), New Delhi
+      year: 1996
+    - course: Residency, Anatomic & Clinical Pathology
+      institution: University of Texas Southwestern Medical Center
+      year: 1999
+    - course: Fellowship, Pediatric Pathology
+      institution: University of Texas Southwestern Medical Center
+      year: 2000
+    - course: Residency, Anatomic Pathology
+      institution: University of Texas Southwestern Medical Center
+      year: 2001
+    - course: Fellowship, Gastrointestinal Pathology
+      institution: Johns Hopkins Hospital
+      year: 2002
+
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -72,7 +84,30 @@ user_groups:
   - Principal Investigator
 #  - Researchers
 ---
+Anirban Maitra is a physician-scientist and Director of the Laura and Isaac Perlmutter Cancer Center at NYU Langone Health, an NCI-designated Comprehensive Cancer Center, where he also serves as Associate Dean for Cancer Research and holds the Laura and Isaac Perlmutter Professorship of Pathology. For more than 25 years, his career has been devoted to improving outcomes for patients with pancreatic cancer, with a research program centered on early detection, biomarker discovery, and cancer interception.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Dr. Maitra earned his medical degree (MBBS) from the All India Institute of Medical Sciences (AIIMS) in New Delhi, followed by residency and fellowship training in anatomic, pediatric, and molecular pathology at the University of Texas Southwestern Medical Center. He completed fellowship training in gastrointestinal pathology at Johns Hopkins University School of Medicine, where he subsequently joined the faculty of the Sol Goldman Pancreatic Cancer Research Center and rose to professor of pathology and oncology. In 2013, he was recruited to The University of Texas MD Anderson Cancer Center in Houston as the inaugural scientific director of the Sheikh Ahmed Pancreatic Cancer Research Center, where he later held the Sheikh Khalifa Bin Zayed Al Nahyan Distinguished University Chair. He joined NYU Langone Health in August 2025 to co-direct the Gastrointestinal Cancer Center before being named Director of the Perlmutter Cancer Center in January 2026.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+A prolific and widely cited researcher, Dr. Maitra has co-authored more than 500 peer-reviewed publications on the genetics, biology, and early detection of pancreatic cancer and its precursor lesions, and his laboratory pioneered a liquid biopsy approach for the non-invasive detection of pancreatic tumors. He has led or co-led multiple large, multi-institutional NIH- and foundation-funded initiatives, including consortia focused on KRAS-targeted therapies and cancer interception, and has mentored more than three dozen postdoctoral fellows and graduate students, many of whom now hold independent faculty positions worldwide. His work has been continuously supported by the National Cancer Institute along with foundations including Stand Up To Cancer, the Lustgarten Foundation for Pancreatic Cancer Research, Breakthrough Cancer, and the Pancreatic Cancer Action Network.
+
+**Career history** <br>
+2026 – Present <br>
+Director, Laura and Isaac Perlmutter Cancer Center; Associate Dean for Cancer Research. 
+NYU Grossman School of Medicine
+<br>
+2025 – 2026<br>
+Co-Director, Gastrointestinal Cancer Center. 
+NYU Langone Health
+<br>
+2013 – 2025<br>
+Professor of Pathology & Translational Molecular Pathology; <br>Sheikh Khalifa Bin Zayed Al Nahyan Distinguished University Chair; <br>Scientific Director, Sheikh Ahmed Pancreatic Cancer Research Center, The University of Texas MD Anderson Cancer Center
+<br>
+2002 – 2013<br>
+Professor of Pathology & Oncology, Sol Goldman Pancreatic Cancer Research Center. 
+Johns Hopkins University School of Medicine
+
+**Selected Honors**<br>
+R. Lee Clark Prize for Excellence in Translational Cancer Research<br>
+Ruth Leff Siegel Award for Pancreatic Cancer Research<br>
+AACR Team Science Award
+

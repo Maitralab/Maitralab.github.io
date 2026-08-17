@@ -48,7 +48,7 @@ bio: Cancer cell plasticity in the lung and pancreatic cancer. Enjoying online n
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:srinjoy.sil@nyulangone.org'
   - icon: twitter
     icon_pack: fab
     link: https://x.com/Srinjoy_Sil

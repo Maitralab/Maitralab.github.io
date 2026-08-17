@@ -99,102 +99,102 @@
 
 
 // 手机
-@media (max-width: 478px) {
-  .shortcode-split-wrap {
-    .split-reverse .split-image,
-    .split-reverse .split-text {
-      order: 0; /* 恢复默认文档流顺序 */
-    }
-  }
+// @media (max-width: 478px) {
+//   .shortcode-split-wrap {
+//     .split-reverse .split-image,
+//     .split-reverse .split-text {
+//       order: 0; /* 恢复默认文档流顺序 */
+//     }
+//   }
 
-  #section-slider {
+//   #section-slider {
 
-    .carousel-inner {
-      .hero-lead  {
-        font-size: 0.9rem !important;
-      }
-      .wg-hero {
-        margin: 3rem 1rem !important;
-      }
-    }
+//     .carousel-inner {
+//       .hero-lead  {
+//         font-size: 0.9rem !important;
+//       }
+//       .wg-hero {
+//         margin: 3rem 1rem !important;
+//       }
+//     }
 
-  }
+//   }
 
-}
+// }
 
-// 手机和平板窄屏
-@media (max-width: 768px) {
+// // 手机和平板窄屏
+// @media (max-width: 768px) {
 
-  // split section
-  .shortcode-split-wrap {
-    .split-reverse .split-image,
-    .split-reverse .split-text {
-      order: 0;
-    }
-  }
+//   // split section
+//   .shortcode-split-wrap {
+//     .split-reverse .split-image,
+//     .split-reverse .split-text {
+//       order: 0;
+//     }
+//   }
 
-  // 首页 slider / hero
-  #section-slider {
+//   // 首页 slider / hero
+//   #section-slider {
 
-    .carousel-inner {
+//     .carousel-inner {
 
-      .wg-hero {
-        // 整个hero区域在手机端缩小边距
-        margin: 1.5rem clamp(0.8rem, 4vw, 1.2rem) !important;
-        padding: 1rem 0 !important;
-        min-height: auto !important;
-      }
+//       .wg-hero {
+//         // 整个hero区域在手机端缩小边距
+//         margin: 1.5rem clamp(0.8rem, 4vw, 1.2rem) !important;
+//         padding: 1rem 0 !important;
+//         min-height: auto !important;
+//       }
 
-      .hero-title {
-        font-size: clamp(1.5rem, 6vw, 2rem) !important;
-        line-height: 1.2 !important;
-        margin-bottom: 1rem !important;
-        text-align: center !important;
-      }
+//       .hero-title {
+//         font-size: clamp(1.5rem, 6vw, 2rem) !important;
+//         line-height: 1.2 !important;
+//         margin-bottom: 1rem !important;
+//         text-align: center !important;
+//       }
 
-      .hero-lead {
-        font-size: clamp(0.78rem, 3.5vw, 0.95rem) !important;
-        line-height: 1.45 !important;
-        width: 100% !important;
-        max-width: 100% !important;
-        margin: 0 auto !important;
-        padding: 0 !important;
-        text-align: justify !important;
-        box-sizing: border-box;
-      }
+//       .hero-lead {
+//         font-size: clamp(0.78rem, 3.5vw, 0.95rem) !important;
+//         line-height: 1.45 !important;
+//         width: 100% !important;
+//         max-width: 100% !important;
+//         margin: 0 auto !important;
+//         padding: 0 !important;
+//         text-align: justify !important;
+//         box-sizing: border-box;
+//       }
 
-      // 背景图
-      .carousel-item {
-        background-size: cover !important;
-        background-position: center center !important;
-        min-height: 70vh !important;
-      }
+//       // 背景图
+//       .carousel-item {
+//         background-size: cover !important;
+//         background-position: center center !important;
+//         min-height: 70vh !important;
+//       }
 
-      // 如果logo是img标签
-      img {
-        max-width: 100% !important;
-        height: auto !important;
-      }
+//       // 如果logo是img标签
+//       img {
+//         max-width: 100% !important;
+//         height: auto !important;
+//       }
 
-      // 如果你的logo有单独class，最好用这个
-      .hero-logo,
-      .slider-logo,
-      .lab-logo {
-        width: clamp(110px, 32vw, 170px) !important;
-        height: auto !important;
-        margin: 0 auto 0.5rem auto !important;
-        display: block !important;
-      }
+//       // 如果你的logo有单独class，最好用这个
+//       .hero-logo,
+//       .slider-logo,
+//       .lab-logo {
+//         width: clamp(110px, 32vw, 170px) !important;
+//         height: auto !important;
+//         margin: 0 auto 0.5rem auto !important;
+//         display: block !important;
+//       }
 
-      // tagline
-      .hero-tagline,
-      .slider-tagline {
-        font-size: clamp(0.75rem, 3vw, 1rem) !important;
-        line-height: 1.2 !important;
-        text-align: center !important;
-        margin-top: 0.3rem !important;
-      }
+//       // tagline
+//       .hero-tagline,
+//       .slider-tagline {
+//         font-size: clamp(0.75rem, 3vw, 1rem) !important;
+//         line-height: 1.2 !important;
+//         text-align: center !important;
+//         margin-top: 0.3rem !important;
+//       }
 
-    }
-  }
-}
+//     }
+//   }
+// }

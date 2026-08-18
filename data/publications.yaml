@@ -2,50 +2,1249 @@ publications:
 
   - code: "11berico_2026_acs"
     title: "Clinicopathologic Characteristics of Brain Metastasis of Pancreatic Ductal Adenocarcinoma."
-    authors_text: "**Shaimaa Elzamly**, Mouaz Alsawas, Mahmoud M G Yousef, Dan Zhao, Matthew Hg Katz, Laura R Prakash, Hua Wang, Ziang Li, Robert A Wolff, Anirban Maitra, Huamin Wang"
+    authors_text: "Shaimaa Elzamly, Mouaz Alsawas, Mahmoud M G Yousef, Dan Zhao, Matthew Hg Katz, Laura R Prakash, Hua Wang, Ziang Li, Robert A Wolff, Anirban Maitra, Huamin Wang"
     year: 2026
     journal: 'The American Journal of Surgical Pathology. <span class="j-year">2026</span>'
     url_external: "https://pubmed.ncbi.nlm.nih.gov/40936196/"
 
   - code: "11berico_2026_cancer_discovery"
     title: "AI-powered Deep Visual Proteomics reveals critical molecular transitions in pancreatic cancer precursors"
-    authors_text: "**Jimin Min**,Lisa Schweizer, Gijs Zonderland, Benson Chellakkan Selvanesan, Julie H. Thomsen, Lukas Oldenburg, Seong-Woo Bae, Bongjun Kim, Sharía D. Hernández, Gabriela Jez, Vincent Bernard, Benjamin J. Swanson, Kelsey A. Klute, Huamin Wang, Thomas C. Caffrey, Paul M. Grandgenett, Michael A. Hollingsworth, Ishani Ummat, Maximilian T. Strauss, Andreas Mund, Anirban Maitra"
+    authors_text: "Jimin Min,Lisa Schweizer, Gijs Zonderland, Benson Chellakkan Selvanesan, Julie H. Thomsen, Lukas Oldenburg, Seong-Woo Bae, Bongjun Kim, Sharía D. Hernández, Gabriela Jez, Vincent Bernard, Benjamin J. Swanson, Kelsey A. Klute, Huamin Wang, Thomas C. Caffrey, Paul M. Grandgenett, Michael A. Hollingsworth, Ishani Ummat, Maximilian T. Strauss, Andreas Mund, Anirban Maitra"
     year: 2026
     journal: 'Cancer discovery. <span class="j-year">2026</span>'
     url_external: "https://doi.org/10.1158/2159-8290.CD-25-1119"
 
-  - code: "wiggins_2025_clinical_cancer_research"
-    title: "Tumor microRNA signatures associate with stage II/III melanoma patient outcomes"
-    authors_text: "**Wiggins, Jennifer M**, Zhang, Qiao, Zhang, Yian, Vand-Rajabpour, Fatemeh, Hanniford, Douglas, He, Linchen, Lu, Yuting, Kenney, Jessica M, Sadeghi, Keimya D, Argibay, Diana, Orlow, Irene, Busam, Klaus J, Lezcano, Cecilia, Lee, Tim K, Luo, Li, Gorlov, Ivan P, Amos, Christopher, Ernstoff, Marc S, Seshan, Venkatraman E, Cust, Anne E, Wilmott, James, Scolyer, Richard A, Mann, Graham J, Reiner, Allison, Kostrzewa, Caroline E, Nagore, Eduardo, Funchain, Pauline, Ko, Jennifer, Edmiston, Sharon N, Conway, Kathleen, Googe, Paul B, Ollila, David W, Lee, Jeffrey E, Rees, Judy R, Thompson, Cheryl L, Gerstenblith, Meg, Bosenberg, Marcus, Gould Rothberg, Bonnie E, Osman, Iman, Saenger, Yvonne, Reynolds, Adam Z, Boyce, Tawny, Holmen, Sheri, Yan, Shaofeng, Brunsgaard, Elise, Bogner, Paul, Kuan, Pei Fen, Thomas, Nancy E, Begg, Colin B, Shen, Ronglai, Berwick, Marianne, Shao, Yongzhao, Polsky, David, Hernando, Eva"
-    year: 2025
-    journal: 'Clinical cancer research. <span class="j-year">2025</span>'
-    url_external: "https://doi.org/10.1158/1078-0432.CCR-24-3785"
 
-  - code: "eskow_2025_disease_models_mechanisms"
-    title: "Modeling metastasis - leveraging novel tools to streamline discovery in advanced cancer"
-    authors_text: "**Eskow, Nicole M**, Hernando, Eva"
-    year: 2025
-    journal: 'Disease models & mechanisms. <span class="j-year">2025</span>'
-    url_external: "https://doi.org/10.1242/dmm.052449"
+  - code: "3shaheen_2026_cancer_res_commun" 
+    title: "The Lysine Demethylase KDM4C Is an Oncogenic Driver and Regulates ERK Activity in KRAS-Mutant Pancreatic Ductal Adenocarcinoma" 
+    authors_text: "Menna-t-Allah Shaheen, Sarah Dhebat, Kimal I. Rajapakshe, Bidyut Ghosh, Benson Chellakkan Selvanesan, Shariq S. Ansari, Cara L. Haymaker, Dorsay Sadeghian, Huamin Wang, Ching-Fei Li, Haoqiang Ying, Anirban Maitra" 
+    year: 2026 
+    journal: 'Cancer research communications. <span class="j-year">2026</span>' 
+    url_external: "https://doi.org/10.1158/2767-9764.CRC-25-0278" 
 
-  - code: "agrawal_2025_science_advances"
-    title: "Integrated in vivo functional screens and multiomics analyses identify α-2,3-sialylation as essential for melanoma maintenance"
-    authors_text: "**Agrawal, Praveen**, Chen, Shuhui, de Pablos, Ana, Vadlamudi, Yellamandayya, Vand-Rajabpour, Fatemeh, Jame-Chenarboo, Faezeh, Kar, Swarnali, Yanke, Amanda Flores, Berico, Pietro, de Vega, Eleazar Miera Saenz, Darvishian, Farbod, Osman, Iman, Lujambio, Amaia, Mahal, Lara K, Hernando, Eva"
-    year: 2025
-    journal: 'Science advances. <span class="j-year">2025</span>'
-    url_external: "https://doi.org/10.1126/sciadv.adg3481"
+  
 
-  - code: "soler_saez_2025_journal_investigative_dermatology"
-    title: "Unveiling Common Transcriptomic Features between Melanoma Brain Metastases and Neurodegenerative Diseases"
-    authors_text: "**Soler-Sáez, Irene**, Karz, Alcida, Hidalgo, Marta R, Gómez-Cabañes, Borja, López-Cerdán, Adolfo, Català-Senent, José F, Prutisto-Chang, Kylie, Eskow, Nicole M, Izar, Benjamin, Redmer, Torben, Kumar, Swaminathan, Davies, Michael A, de la Iglesia-Vayá, María, Hernando, Eva, García-García, Francisco"
-    year: 2025
-    journal: 'Journal of investigative dermatology. <span class="j-year">2025</span>'
-    url_external: "https://doi.org/10.1016/j.jid.2024.09.005"
+  - code: "4thege_2026_cell_rep_med" 
+    title: "An autochthonous CRISPR activation screening platform for characterizing tissue-specific oncogene selection" 
+    authors_text: "Fredrik I. Thege, Amber Hoskins, Annaliese Kramer, Intisar Salim, Ashwath Seetharaman, Natalie Fowlkes, Kimal I. Rajapakshe, Anirban Maitra, Sonja M. Woermann" 
+    year: 2026 
+    journal: 'Cell reports medicine. <span class="j-year">2026</span>' 
+    url_external: "https://doi.org/10.1016/j.xcrm.2026.102759" 
 
-  - code: "jame_chenarboo_2025_science_advances"
-    title: "Screening the human miRNA interactome reveals coordinated up-regulation in melanoma, adding bidirectional regulation to miRNA networks"
-    authors_text: "**Jame-Chenarboo, Faezeh**, Reyes, Joseph N, Twells, Nicholas M, Ng, Hoi Hei, Macdonald, Dawn, Hernando, Eva, Mahal, Lara K"
-    year: 2025
-    journal: 'Science advances. <span class="j-year">2025</span>'
-    url_external: "https://doi.org/10.1126/sciadv.adr0277"
+  
 
+  - code: "5mcandrews_2026_embo_j" 
+    title: "CDK8 remodels the tumor microenvironment and promotes resistance to KRASG12D inhibitors and daraxonrasib in PDAC" 
+    authors_text: "Kathleen M McAndrews, Krishnan K Mahadevan, Bingrui Li, Anaïs M Comptdaer, Amari M Sockwell, Sami J Morse, Patience J Kelly, Sarah I Patel, Michelle L Kirtley, Barbara A Moreno Diaz, Hengyu Lyu, David H Peng, Sima Khazaei, Aislyn Schalck, Xunian Zhou, Hikaru Sugimoto, Aaron A Bickert, Lakshmi Kavitha Sthanam, Meagan R Taylor, Shreyasee V Kumbhar, Kent A Arian, Yasaman Barekatain, Francesca Paradiso, Paola A Guerrero, Vincent Bernard, Navid Sobhani, Alondra N Camacho-Acevedo, Kiara E Bornes, Phuong Thao Tran, Anirban Maitra, Timothy P Heffernan, Raghu Kalluri" 
+    year: 2026 
+    journal: 'The EMBO journal. <span class="j-year">2026</span>' 
+    url_external: "https://doi.org/10.1038/s44318-026-00854-5"
+
+
+  - code: "6bae_2026_exp_mol_med" 
+    title: "Spatially resolved tissue architecture and computational pathology in pancreatic cancer" 
+    authors_text: "Seong-Woo Bae, Aristotelis Tsirigos, Jimin Min, Anirban Maitra" 
+    year: 2026 
+    journal: 'Experimental & molecular medicine. <span class="j-year">2026</span>' 
+    url_external: "https://pubmed.ncbi.nlm.nih.gov/42547816/" 
+
+    
+
+  - code: "7chari_2026_gastroenterology" 
+    title: "Risk of Pancreatic Cancer in Glycemically Defined New-Onset Diabetes: A Prospective Cohort Study" 
+    authors_text: "Suresh T Chari, Bechien Wu, Camden Lopez, Eva Lustigova, Qiaoling Chen, Stephen K Van Den Eeden, Amethyst D Leimpeter, William Fisher, Amy Wood, Ashley S Alexander, John Valenta, Santhi Swaroop Vege, Erin E Carlson, Kari G Rabe, Phil A Hart, Lu Qian, Ying-Qi Zhao, Nadia Yosuf, Lynn Matrisian, Barbara Kenner, Jo Ann Rinaudo, Anirban Maitra, Ziding Feng"
+    year: 2026 
+    journal: 'Gastroenterology. <span class="j-year">2026</span>' 
+    url_external: "https://pubmed.ncbi.nlm.nih.gov/40633624/" 
+
+    
+
+  - code: "8ku_2026_genome_biol" 
+    title: "Benchmarking tools for deciphering cellular crosstalk in spatially-resolved transcriptomics" 
+    authors_text: "Li-Ting Ku, Vincent Bernard, Jimin Min, Ying Yuan, Eugene Jon Koay, Anirban Maitra, Liang Li, Ziyi Li" 
+    year: 2026 
+    journal: 'Genome biology. <span class="j-year">2026</span>' 
+    url_external: "https://pubmed.ncbi.nlm.nih.gov/41952215/" 
+
+    
+
+  - code: "9makino_2026_j_gastroenterol" 
+    title: "Molecular pathology of intraductal papillary mucinous neoplasms of the pancreas: current understanding and perspectives on malignant progression" 
+    authors_text: "Yuki Makino, Kohki Oyama, Akiko Sagara, Fredrik Ivar Thege, Anirban Maitra" 
+    year: 2026 
+    journal: 'Journal of gastroenterology. <span class="j-year">2026</span>' 
+    url_external: "https://pubmed.ncbi.nlm.nih.gov/41296011/" 
+
+    
+
+  - code: "10chari_2026_j_natl_cancer_inst" 
+    title: "Heuriskance: a novel paradigm for systematic earlier detection of sporadic pancreatic cancer" 
+    authors_text: "Suresh T Chari, Ziding Feng, Bechien Wu, William Fisher, Avinash Kambadakone, Ying-Qi Zhao, Anirban Maitra, Barbara Kenner, Lynn M Matrisian" 
+    year: 2026 
+    journal: 'Journal of the National Cancer Institute. <span class="j-year">2026</span>' 
+    url_external: "https://pubmed.ncbi.nlm.nih.gov/41063387/" 
+
+    
+
+  - code: "11mavromatis _2026_jama_oncol" 
+    title: "Development and Validation of a Parsimonious Risk Stratification Model for Pancreatic Cancer" 
+    authors_text: "Lucas A Mavromatis, Viktor Zlatanic, Emil Agarunov, Shenin A Sanoba, Michael D Kluger, Leora I Horwitz, Narges Razavian, Anirban Maitra, Tamas A Gonda, Morgan E Grams"
+    year: 2026 
+    journal: 'JAMA oncology. <span class="j-year">2026</span>' 
+    url_external: "https://pubmed.ncbi.nlm.nih.gov/41885821/" 
+
+    
+
+  - code: "12dohmen _2026_mol_oncol" 
+    title: "Pre-analytical optimization of cell-free DNA and extracellular vesicle-derived DNA for mutation detection in liquid biopsies" 
+    authors_text: "Jonas Dohmen, Lucrezia De Santis, Bret M Stephens, Vincent Bernard, Jörg C Kalff, Lara Braun, Phillipp Leyendecker, Johannes Röttgen, Daniel Weissinger, Anirban Maitra, Paola A Guerrero, Alexander Semaan" 
+    year: 2026 
+    journal: 'Molecular oncology. <span class="j-year">2026</span>' 
+    url_external: "https://pubmed.ncbi.nlm.nih.gov/41725045/" 
+
+    
+
+  - code: "13treekitkarnmongkol _2026_nat_cell_biol" 
+    title: "RASH3D19 mediates RAS activation through a positive feedback loop in KRAS-mutant cancer" 
+    authors_text: "Warapen Treekitkarnmongkol, Hiroshi Katayama, Deivendran Sankaran, Mei-Chee Tai, Sanchita Rauth, Hanxiao Chen, Tristian Nguyen, Kieko Hara, Fredrik I Thege, Moorthy P Ponnusamy, Surinder K Batra, Huamin Wang, Ignacio I Wistuba, Thomas D Schmittgen, John V Heymach, Scott Kopetz, Tony Hu, Wantong Yao, Anirban Maitra, Subrata Sen" 
+    year: 2026 
+    journal: 'Nature cell biology. <span class="j-year">2026</span>' 
+    url_external: "https://pubmed.ncbi.nlm.nih.gov/41326795/" 
+
+    
+
+  - code: "14maitra_2026_npj_precis_oncol" 
+    title: "Neurokinin-1 receptor antagonism as a potential therapeutic strategy for cancer treatment; enhancing anti-tumor efficacy while mitigating treatment-related toxicities" 
+    authors_text: "Anirban Maitra, Miguel Muñoz, Rafael Coveñas, Tan Hoang, Zal Italia, Prema Robinson" 
+    year: 2026 
+    journal: 'NPJ precision oncology. <span class="j-year">2026</span>' 
+    url_external: "https://pubmed.ncbi.nlm.nih.gov/42448885/" 
+
+    
+
+  - code: "15maitra_2026_pancreatology" 
+    title: "Towards early detection of pancreatic cancer: The current status of cohort studies by the Diabetes-Pancreatic Ductal AdenoCarcinoma Working Group" 
+    authors_text: "Anirban Maitra, Suresh T. Chari, Bechien Wu, Stephen K. Van Den Eeden, William Fisher, Santhi Swaroop Vege, Jo Ann Rinaudo, Ziding Feng" 
+    year: 2026 
+    journal: 'Pancreatology. <span class="j-year">2026</span>' 
+    url_external: "https://pubmed.ncbi.nlm.nih.gov/42203568/" 
+
+    
+
+  - code: "16neel_2026_science" 
+    title: "KRAShing pancreatic cancer before takeoff" 
+    authors_text: "Benjamin G. Neel, Anirban Maitra" 
+    year: 2026 
+    journal: 'Science. <span class="j-year">2026</span>' 
+    url_external: "https://pubmed.ncbi.nlm.nih.gov/41818383/" 
+
+    
+
+  - code: "17barreto _2026_world_j_surg" 
+    title: "Pancreatic Cancer-Advances in the Last 50 Years" 
+    authors_text: "S George Barreto, Anirban Maitra, Eileen M O'Reilly, Dushyant Sahani, Richard Zheng, Charles J Yeo" 
+    year: 2026 
+    journal: 'World journal of surgery. <span class="j-year">2026</span>' 
+    url_external: "https://pubmed.ncbi.nlm.nih.gov/41966043/" 
+
+
+    
+
+  - code: "6morris_2025_cancer_cell" 
+
+    title: "Phase 1/2 trial of encorafenib, cetuximab, and nivolumab in microsatellite stable BRAFV600E metastatic colorectal cancer" 
+
+    authors_text: "Van K. Morris, Christine M. Parseghian, Vahid Bahrambeigi, Nourhan Abdelfattah, Lianchun Xiao, Anjali Agrawal, Kangyu Lin, Kanwal P.S. Raghav, Robert A. Wolff, Arvind Dasari, Ryan W. Huey, Bryan K. Kee, Michael J. Overman, Jason A. Willis, Phat H. Le, Michelle Escano, Yunyu C. Baig, Kelsey Pan, David Menter, Alda L. Tam, Wai C. Foo, Li Shen, Hey Min Lee, Thomas D. Gallup, Cori Margain, Dave Gallup, Kimal I. Rajapakshe, Paola A. Guerrero, Jing Wang, Ryan B. Corcoran, Anirban Maitra, Kyuson Yun, Scott Kopetz" 
+
+    year: 2025 
+
+    journal: 'Cancer cell. <span class="j-year">2025</span>' 
+
+    url_external: "https://pubmed.ncbi.nlm.nih.gov/40882637/" 
+
+    
+
+  - code: "7liu_2025_cancer_cell" 
+
+    title: "Conserved spatial subtypes and cellular neighborhoods of cancer-associated fibroblasts revealed by single-cell spatial multi-omics" 
+
+    authors_text: "Yunhe Liu, Ansam Sinjab, Jimin Min, Guangchun Han, Francesca Paradiso, Yuanyuan Zhang, Ruiping Wang, Guangsheng Pei, Yibo Dai, Yang Liu, Kyung Serk Cho, Enyu Dai, Akshay Basi, Jared K Burks, Kimal I Rajapakshe, Yanshuo Chu, Jiahui Jiang, Daiwei Zhang, Xinmiao Yan, Paola A Guerrero, Alejandra Serrano, Mingyao Li, Tae Hyun Hwang, Andrew Futreal, Jaffer A Ajani, Luisa M Solis Soto, Amir A Jazaeri, Humam Kadara, Anirban Maitra, Linghua Wang" 
+
+    year: 2025 
+
+    journal: 'Cancer cell. <span class="j-year">2025</span>' 
+
+    url_external: "https://pubmed.ncbi.nlm.nih.gov/40154487/" 
+
+    
+
+  - code: "8trinh_2025_cell_rep" 
+
+    title: "Mutant GNAS drives a pyloric metaplasia with tumor suppressive glycans in intraductal papillary mucinous neoplasia" 
+
+    authors_text: "Vincent Quoc-Huy Trinh, Katherine E Ankenbauer, Sabrina M Torbit, Christopher P Taranto, Jiayue Liu, Maelle Batardiere, Bhoj Kumar, H Carlo Maurer, Frank Revetta, Zhengyi Chen, Angela RS Kruse, Audra M Judd, Celina Copeland, Jahg Wong, Olivia Ben-Levy, Brenda Jarvis, Monica Brown, Jeffrey W Brown, Koushik Das, Yuki Makino, Jeffrey M Spraggins, Ken S Lau, Parastoo Azadi, Anirban Maitra, Marcus CB Tan, Kathleen E DelGiorno" 
+
+    year: 2025 
+
+    journal: 'Cell reports. <span class="j-year">2025</span>' 
+
+    url_external: "https://pubmed.ncbi.nlm.nih.gov/41370125/" 
+
+    
+
+  - code: "9rodriguez_2025_dig_dis_sci" 
+
+    title: "A Mixed-Methods Approach to Assessing Barriers and Facilitators to Cancer Genetics Care in Black and Latino/a Individuals Impacted by Pancreatic Cancer: The REGENERATE Study" 
+
+    authors_text: "Nicolette Juliana Rodriguez, Tara B Coffin, Andrew J Ward, Juan Felipe Rodriguez, Chinedu Ukaegbu, Allison Rosenzweig, Alyson Caruso, Anna Revette, Barbara Kenner, Scott H Nelson, Michael Goggins, Anirban Maitra, Sapna Syngal" 
+
+    year: 2025 
+
+    journal: 'Digestive diseases and sciences. <span class="j-year">2025</span>' 
+
+    url_external: "https://pubmed.ncbi.nlm.nih.gov/40289056/" 
+
+    
+
+  - code: "10yang_2025_gastroenterology" 
+
+    title: "TREM2 Depletion in Pancreatic Cancer Elicits Pathogenic Inflammation and Accelerates Tumor Progression via Enriching IL-1β+ Macrophages" 
+
+    authors_text: "Daowei Yang, Xinlei Sun, Hua Wang, Ignacio I Wistuba, Huamin Wang, Anirban Maitra, Yang Chen" 
+
+    year: 2025 
+
+    journal: 'Gastroenterology. <span class="j-year">2025</span>' 
+
+    url_external: "https://pubmed.ncbi.nlm.nih.gov/39956331/" 
+
+    
+
+  - code: "11ying_2025_genes_dev" 
+
+    title: "Genetics and biology of pancreatic ductal adenocarcinoma" 
+
+    authors_text: "Haoqiang Ying, Alec C Kimmelman, Nabeel Bardeesy, Raghu Kalluri, Anirban Maitra, Ronald A DePinho" 
+
+    year: 2025 
+
+    journal: 'Genes & development. <span class="j-year">2025</span>' 
+
+    url_external: "https://pubmed.ncbi.nlm.nih.gov/39510840/" 
+
+    
+
+  - code: "12chen_2025_gut" 
+
+    title: "Long-chain sulfatide enrichment is an actionable metabolic vulnerability in intraductal papillary mucinous neoplasm (IPMN)-associated pancreatic cancers" 
+
+    authors_text: "Yihui Chen, Riccardo Ballarò, Marta Sans, Fredrik I Thege, Mingxin Zuo, Rongzhang Dou, Jimin Min, Michele Yip-Schneider, Jianjun Zhang, Ranran Wu, Ehsan Irajizad, Yuki Makino, Kimal I Rajapakshe, Hamid K Rudsari, Mark W Hurd, Ricardo A León-Letelier, Hiroyuki Katayama, Edwin Ostrin, Jody Vykoukal, Jennifer B Dennison, Kim-Anh Do, Samir Hanash, Robert A Wolff, Paola A Guerrero, Michael P Kim, C Max Schmidt, Anirban Maitra, Johannes F Fahrmann" 
+
+    year: 2025 
+
+    journal: 'Gut. <span class="j-year">2025</span>' 
+
+    url_external: "https://pubmed.ncbi.nlm.nih.gov/40268349/" 
+
+    
+
+  - code: "13salinas_2025_nat_med" 
+
+    title: "Understanding end-of-life cancer biology" 
+
+    authors_text: " Camila Hidalgo Salinas, Ammar A. Javed, Anirban Maitra" 
+
+    year: 2025 
+
+    journal: 'Nature medicine. <span class="j-year">2025</span>' 
+
+    url_external: "https://pubmed.ncbi.nlm.nih.gov/41238925/" 
+
+    
+
+  - code: "14pei_2025_nature" 
+
+    title: "Spatial mapping of transcriptomic plasticity in metastatic pancreatic cancer" 
+
+    authors_text: "Guangsheng Pei, Jimin Min, Kimal I Rajapakshe, Vittorio Branchi, Yunhe Liu, Benson Chellakkan Selvanesan, Fredrik Thege, Dorsay Sadeghian, Daiwei Zhang, Kyung Serk Cho, Yanshuo Chu, Enyu Dai, Guangchun Han, Mingyao Li, Cassian Yee, Kazuki Takahashi, Bharti Garg, Herve Tiriac, Vincent Bernard, Alexander Semaan, Jean L Grem, Thomas C Caffrey, Jared K Burks, Andrew M Lowy, Andrew J Aguirre, Paul M Grandgenett, Michael A Hollingsworth, Paola A Guerrero, Linghua Wang, Anirban Maitra" 
+
+    year: 2025 
+
+    journal: 'Nature. <span class="j-year">2025</span>' 
+
+    url_external: "https://pubmed.ncbi.nlm.nih.gov/40269162/" 
+
+    
+
+  - code: "15shui_2025_plos_comput_biol" 
+
+    title: "PoweREST: Statistical power estimation for spatial transcriptomics experiments to detect differentially expressed genes between two conditions" 
+
+    authors_text: "Lan Shui, Anirban Maitra, Ying Yuan, Ken Lau, Harsimran Kaur, Liang Li, Ziyi Li" 
+
+    year: 2025 
+
+    journal: 'PLoS computational biology. <span class="j-year">2025</span>' 
+
+    url_external: "https://pubmed.ncbi.nlm.nih.gov/40729405/" 
+
+    
+
+  - code: "16mcandrews_2025_sci_transl_med" 
+
+    title: "An allele-agnostic mutant-KRAS inhibitor suppresses tumor maintenance signals and reprograms tumor immunity in pancreatic cancer" 
+
+    authors_text: "Kathleen M McAndrews, Francesca Paradiso, Clint A Stalnecker, Benson S Chellakkan, Fredrik I Thege, David H Peng, Barbara A Moreno Diaz, Hikaru Sugimoto, Sarah I Patel, Krishnan K Mahadevan, Michelle L Kirtley, Danielle Wills, Amari M Sockwell, Andre Luis F Fonseca, Yunhe Liu, Kimal I Rajapakshe, Nathaniel G Yee, Phuong Thao Tran, Huda Alchikh Omar, Antonio Tedeschi, Fiorella Schischlik-Siegl, Andrew S Boghossian, Matthew G Rees, Melissa M Ronan, Jennifer A Roth, Dorothea Rudolph, Martin Aichinger, Florian Ebner, Artem V Artemov, Jesse Lipp, Laura Pisarsky, Valerie Laura Herrmann, John Park, Jörg F Rippmann, Otmar Schaaf, Vanessa Chandler, Mariah Williams, Charles E Deckard, Linghua Wang, Channing J Der, Christopher Vellano, Paola A Guerrero, Timothy P Heffernan, Raghu Kalluri, Anirban Maitra" 
+
+    year: 2025 
+
+    journal: 'Science translational medicine. <span class="j-year">2025</span>' 
+
+    url_external: "https://pubmed.ncbi.nlm.nih.gov/40901924/" 
+
+
+    
+
+  - code: "4aguirre_2024_cancer_res" 
+
+    title: "Hope on the Horizon: A Revolution in KRAS Inhibition Is Creating a New Treatment Paradigm for Patients with Pancreatic Cancer" 
+
+    authors_text: "Andrew J. Aguirre, Ben Z. Stanger, Anirban Maitra" 
+
+    year: 2024 
+
+    journal: 'Cancer research. <span class="j-year">2024</span>' 
+
+    url_external: "https://pubmed.ncbi.nlm.nih.gov/39279379/" 
+
+    
+
+  - code: "5bahrambeigi _2024_cancer_res" 
+
+    title: "Transcriptomic Profiling of Plasma Extracellular Vesicles Enables Reliable Annotation of the Cancer-Specific Transcriptome and Molecular Subtype" 
+
+    authors_text: "Vahid Bahrambeigi, Jaewon J Lee, Vittorio Branchi, Kimal I Rajapakshe, Zhichao Xu, Naishu Kui, Jason T Henry, Wang Kun, Bret M Stephens, Sarah Dhebat, Mark W Hurd, Ryan Sun, Peng Yang, Eytan Ruppin, Wenyi Wang, Scott Kopetz, Anirban Maitra, Paola A Guerrero" 
+
+    year: 2024 
+
+    journal: 'Cancer research. <span class="j-year">2024</span>' 
+
+    url_external: "https://pubmed.ncbi.nlm.nih.gov/38451249/" 
+
+    
+
+  - code: "6taherian _2024_cancers_basel" 
+
+    title: "The Association between Sampling and Survival in Patients with Pancreatic Ductal Adenocarcinoma Who Received Neoadjuvant Therapy and Pancreaticoduodenectomy" 
+
+    authors_text: "Mehran Taherian, Matthew H G Katz, Laura R Prakash, Dongguang Wei, Yi Tat Tong, Zongshan Lai, Deyali Chatterjee, Hua Wang, Michael Kim, Ching-Wei D Tzeng, Naruhiko Ikoma, Robert A Wolff, Dan Zhao, Eugene J Koay, Anirban Maitra, Huamin Wang" 
+
+    year: 2024 
+
+    journal: 'Cancers. <span class="j-year">2024</span>' 
+
+    url_external: "https://pubmed.ncbi.nlm.nih.gov/39409932/" 
+
+    
+
+  - code: "7alewine _2024_carcinogenesis" 
+
+    title: "Editorial: special issue on the latest advances and challenges in pancreas cancer research in memory of S. Perwez Hussain" 
+
+    authors_text: "Christine Alewine, Curtis C Harris, Anirban Maitra, Sharon R Pine, David Tuveson" 
+
+    year: 2024 
+
+    journal: 'Carcinogenesis. <span class="j-year">2024</span>' 
+
+    url_external: "https://pubmed.ncbi.nlm.nih.gov/39578244/" 
+
+    
+
+  - code: "8yang_2024_cell_rep_med" 
+
+    title: "Loss of p53 and SMAD4 induces adenosquamous subtype pancreatic cancer in the absence of an oncogenic KRAS mutation" 
+
+    authors_text: "Daowei Yang, Xinlei Sun, Rohan Moniruzzaman, Hua Wang, Citu Citu, Zhongming Zhao, Ignacio I Wistuba, Huamin Wang, Anirban Maitra, Yang Chen" 
+
+    year: 2024 
+
+    journal: 'Cell reports. Medicine. <span class="j-year">2024</span>' 
+
+    url_external: "https://pubmed.ncbi.nlm.nih.gov/39232498/" 
+
+    
+
+  - code: "9wei_2024_clin_cancer_res" 
+
+    title: "A Small Molecule with Big Impact: MRTX1133 Targets the KRASG12D Mutation in Pancreatic Cancer" 
+
+    authors_text: "Daoyan Wei, Liang Wang, Xiangsheng Zuo, Anirban Maitra, Robert S Bresalier" 
+
+    year: 2024 
+
+    journal: 'Clinical cancer research. <span class="j-year">2024</span>' 
+
+    url_external: "https://pubmed.ncbi.nlm.nih.gov/37831007/" 
+
+    
+
+  - code: "10zhao_2024_ebiomedicine" 
+
+    title: "Big insights from small samples: uncovering the potential of EUS-guided FNAs in pancreatic cancer through predictive genomics and transcriptomics" 
+
+    authors_text: "Melissa Zhao, Anirban Maitra, Jonathan A Nowak" 
+
+    year: 2024 
+
+    journal: 'eBioMedicine. <span class="j-year">2024</span>' 
+
+    url_external: "https://pubmed.ncbi.nlm.nih.gov/39369615/" 
+
+    
+
+  - code: "11patterson_2024_gastroenterology" 
+
+    title: "Pancreatic Cancer-Induced Metabolic Dysregulation Syndrome: Clinical Profile, Proposed Mechanisms, and Unanswered Questions" 
+
+    authors_text: "LaNisha Patterson, Frederico G.S. Toledo, Anirban Maitra, Suresh T. Chari" 
+
+    year: 2024 
+
+    journal: 'Gastroenterology. <span class="j-year">2024</span>' 
+
+    url_external: "https://pubmed.ncbi.nlm.nih.gov/39222716/" 
+
+    
+
+  - code: "12yang_2024_gastroenterology" 
+
+    title: "Genetic Deletion of Galectin-3 Inhibits Pancreatic Cancer Progression and Enhances the Efficacy of Immunotherapy" 
+
+    authors_text: "Daowei Yang, Xinlei Sun, Rohan Moniruzzaman, Hua Wang, Citu Citu, Zhongming Zhao, Ignacio I Wistuba, Huamin Wang, Anirban Maitra, Yang Chen" 
+
+    year: 2024 
+
+    journal: 'Gastroenterology. <span class="j-year">2024</span>' 
+
+    url_external: "https://pubmed.ncbi.nlm.nih.gov/38467382/" 
+
+    
+
+  - code: "13rodriguez _2024_gastroenterology" 
+
+    title: "A Randomized Trial of Two Remote Health Care Delivery Models on the Uptake of Genetic Testing and Impact on Patient-Reported Psychological Outcomes in Families With Pancreatic Cancer: The GENERATE Study" 
+
+    authors_text: "Nicolette J Rodriguez, C Sloane Furniss, Matthew B Yurgelun, Chinedu Ukaegbu, Pamela E Constantinou, Ileana Fortes, Alyson Caruso, Alison N Schwartz, Jill E Stopfer, Meghan Underhill-Blazey, Barbara Kenner, Scott H Nelson, Sydney Okumura, Alicia Y Zhou, Tara B Coffin, Hajime Uno, Miki Horiguchi, Allyson J Ocean, Florencia McAllister, Andrew M Lowy, Alison P Klein, Lisa Madlensky, Gloria M Petersen, Judy E Garber, Scott M Lippman, Michael G Goggins, Anirban Maitra, Sapna Syngal" 
+
+    year: 2024 
+
+    journal: 'Gastroenterology. <span class="j-year">2024</span>' 
+
+    url_external: "https://pubmed.ncbi.nlm.nih.gov/38320723/" 
+
+    
+
+  - code: "14makino_2024_gut" 
+
+    title: "Metabolic reprogramming by mutant GNAS creates an actionable dependency in intraductal papillary mucinous neoplasms of the pancreas" 
+
+    authors_text: "Yuki Makino, Kimal I Rajapakshe, Benson Chellakkan Selvanesan, Takashi Okumura, Kenjiro Date, Prasanta Dutta, Lotfi Abou-Elkacem, Akiko Sagara, Jimin Min, Marta Sans, Nathaniel Yee, Megan J Siemann, Jose Enriquez, Paytience Smith, Pratip Bhattacharya, Michael Kim, Merve Dede, Traver Hart, Anirban Maitra, Fredrik Ivar Thege" 
+
+    year: 2024 
+
+    journal: 'Gut. <span class="j-year">2024</span>' 
+
+    url_external: "https://pubmed.ncbi.nlm.nih.gov/39277181/" 
+
+    
+
+  - code: "15maitra_2024_lancet" 
+
+    title: "Early detection of pancreatic cancer and AI risk partitioning" 
+
+    authors_text: "Anirban Maitra, Eric J Topol" 
+
+    year: 2024 
+
+    journal: 'Lancet. <span class="j-year">2024</span>' 
+
+    url_external: "https://pubmed.ncbi.nlm.nih.gov/38615682/" 
+
+    
+
+  - code: "16maitra_2024_nat_cancer" 
+
+    title: "Reaching your destination can require a diversion" 
+
+    authors_text: "Anirban Maitra" 
+
+    year: 2024 
+
+    journal: 'Nature cancer. <span class="j-year">2024</span>' 
+
+    url_external: "https://pubmed.ncbi.nlm.nih.gov/38172340/" 
+
+    
+
+  - code: "17anandhan _2024_nat_commun" 
+
+    title: "TSG-6+ cancer-associated fibroblasts modulate myeloid cell responses and impair anti-tumor response to immune checkpoint therapy in pancreatic cancer" 
+
+    authors_text: "Swetha Anandhan, Shelley Herbrich, Sangeeta Goswami, Baoxiang Guan, Yulong Chen, Marc Daniel Macaluso, Sonali Jindal, Seanu Meena Natarajan, Samuel W Andrewes, Liangwen Xiong, Ashwat Nagarajan, Sreyashi Basu, Derek Ng Tang, Jielin Liu, Jimin Min, Anirban Maitra, Padmanee Sharma" 
+
+    year: 2024 
+
+    journal: 'Nature communications. <span class="j-year">2024</span>' 
+
+    url_external: "https://pubmed.ncbi.nlm.nih.gov/38987547/" 
+
+    
+
+  - code: "18li_2024_nat_med" 
+
+    title: "The liver casts a wide NET for metastatic pancreatic cancer" 
+
+    authors_text: "Le Li, Florencia McAllister, Anirban Maitra" 
+
+    year: 2024 
+
+    journal: 'Nature medicine. <span class="j-year">2024</span>' 
+
+    url_external: "https://pubmed.ncbi.nlm.nih.gov/38992125/" 
+
+    
+
+  - code: "19yousef _2024_npj_precis_oncol" 
+
+    title: "Impact of KRAS mutations and co-mutations on clinical outcomes in pancreatic ductal adenocarcinoma" 
+
+    authors_text: "Abdelrahman Yousef, Mahmoud Yousef, Saikat Chowdhury, Kawther Abdilleh, Mark Knafl, Paul Edelkamp, Kristin Alfaro-Munoz, Ray Chacko, Jennifer Peterson, Brandon G Smaglo, Robert A Wolff, Shubham Pant, Michael S Lee, Jason Willis, Michael Overman, Sudheer Doss, Lynn Matrisian, Mark W Hurd, Rebecca Snyder, Matthew H G Katz, Huamin Wang, Anirban Maitra, John Paul Shen, Dan Zhao" 
+
+    year: 2024 
+
+    journal: 'NPJ precision oncology. <span class="j-year">2024</span>' 
+
+    url_external: "https://pubmed.ncbi.nlm.nih.gov/38310130/" 
+
+    
+
+    
+
+  - code: "1sohn_2023_am_j_surg_pathol" 
+
+    title: "Integrated Pathologic Score Effectively Stratifies Patients With Pancreatic Ductal Adenocarcinoma Who Received Neoadjuvant Therapy and Pancreaticoduodenectomy" 
+
+    authors_text: "Aaron J. Sohn, Mehran Taherian, Matthew H.G. Katz, Laura R. Prakash, Deyali Chatterjee, Hua Wang, Michael Kim, Ching-Wei D. Tzeng, Jeffrey E. Lee, Naruhiko Ikoma, Asif Rashid, Robert A. Wolff, Dan Zhao, Eugene J. Koay, Ryan Sun, Anirban Maitra, Huamin Wang" 
+
+    year: 2023 
+
+    journal: 'The American journal of surgical pathology. <span class="j-year">2023</span>' 
+
+    url_external: "https://doi.org/10.1097/PAS.0000000000002013" 
+
+    
+
+  - code: "2tovar_2023_artif_intell_surg" 
+
+    title: "Potential of artificial intelligence in the risk stratification for and early detection of pancreatic cancer" 
+
+    authors_text: "Daniela R. Tovar, Michael H. Rosenthal, Anirban Maitra, Eugene J. Koay" 
+
+    year: 2023 
+
+    journal: 'Artificial intelligence surgery. <span class="j-year">2023</span>' 
+
+    url_external: "https://doi.org/10.20517/ais.2022.38" 
+
+    
+
+  - code: "3sans_2023_biorxiv_preprint" 
+
+    title: "Integrated spatial transcriptomics and lipidomics of precursor lesions of pancreatic cancer identifies enrichment of long chain sulfatide biosynthesis as an early metabolic alteration" 
+
+    authors_text: "Marta Sans, Yihui Chen, Fredrik I Thege, Rongzhang Dou, Jimin Min, Michele Yip-Schneider, Jianjun Zhang, Ranran Wu, Ehsan Irajizad, Yuki Makino, Kimal I Rajapakshe, Mark W Hurd, Ricardo A León-Letelier, Jody Vykoukal, Jennifer B Dennison, Kim-Anh Do, Robert A Wolff, Paola A Guerrero, Michael P Kim, C Max Schmidt, Anirban Maitra, Samir Hanash, Johannes F Fahrmann" 
+
+    year: 2023 
+
+    journal: 'bioRxiv. <span class="j-year">2023</span>' 
+
+    url_external: "https://pubmed.ncbi.nlm.nih.gov/37645752/" 
+
+
+
+    
+
+  - code: "5mahadevan_2023_cancer_cell" 
+
+    title: "KRASG12D inhibition reprograms the microenvironment of early and advanced pancreatic cancer to promote FAS-mediated killing by CD8+ T cells" 
+
+    authors_text: "Krishnan K Mahadevan, Kathleen M McAndrews, Valerie S LeBleu, Sujuan Yang, Hengyu Lyu, Bingrui Li, Amari M Sockwell, Michelle L Kirtley, Sami J Morse, Barbara A Moreno Diaz, Michael P Kim, Ningping Feng, Anastasia M Lopez, Paola A Guerrero, Francesca Paradiso, Hikaru Sugimoto, Kent A Arian, Haoqiang Ying, Yasaman Barekatain, Lakshmi Kavitha Sthanam, Patience J Kelly, Anirban Maitra, Timothy P Heffernan, Raghu Kalluri" 
+
+    year: 2023 
+
+    journal: 'Cancer cell. <span class="j-year">2023</span>' 
+
+    url_external: "https://pubmed.ncbi.nlm.nih.gov/37625401/" 
+
+    
+
+  - code: "6sans_2023_cancer_discov" 
+
+    title: "Spatial Transcriptomics of Intraductal Papillary Mucinous Neoplasms of the Pancreas Identifies NKX6-2 as a Driver of Gastric Differentiation and Indolent Biological Potential" 
+
+    authors_text: "Marta Sans, Yuki Makino, Jimin Min, Kimal I. Rajapakshe, Michele Yip-Schneider, C. Max Schmidt, Mark W. Hurd, Jared K. Burks, Javier A. Gomez, Fredrik I. Thege, Johannes F. Fahrmann, Robert A. Wolff, Michael P. Kim, Paola A. Guerrero, Anirban Maitra" 
+
+    year: 2023 
+
+    journal: 'Cancer discovery. <span class="j-year">2023</span>' 
+
+    url_external: "https://doi.org/10.1158/2159-8290.CD-22-1200" 
+
+    
+
+  - code: "7haldar_2023_cancer_prev_res_phila" 
+
+    title: "Worth a Pound of Cure? Emerging Strategies and Challenges in Cancer Immunoprevention" 
+
+    authors_text: "Saurav D. Haldar, Eduardo Vilar, Anirban Maitra, Neeha Zaidi" 
+
+    year: 2023 
+
+    journal: 'Cancer prevention research. <span class="j-year">2023</span>' 
+
+    url_external: "https://doi.org/10.1158/1940-6207.CAPR-22-0478" 
+
+    
+
+  - code: "8maresso_2023_cancer_prev_res_phila" 
+
+    title: "From Premalignant Biology to Precision Interception: Connecting the Dots with a Curated Collection of Invited Articles" 
+
+    authors_text: "Karen Colbert Maresso, Anirban Maitra, Ernest T Hawk, Eduardo Vilar" 
+
+    year: 2023 
+
+    journal: 'Cancer prevention research. <span class="j-year">2023</span>' 
+
+    url_external: "https://pubmed.ncbi.nlm.nih.gov/37403656/" 
+
+    
+
+  - code: "9semaan_2023_cancer_res_commun" 
+
+    title: "Integrated Molecular Characterization of Intraductal Papillary Mucinous Neoplasms: An NCI Cancer Moonshot Precancer Atlas Pilot Project" 
+
+    authors_text: "Alexander Semaan, Vincent Bernard, Justin Wong, Yuki Makino, Daniel B Swartzlander, Kimal I Rajapakshe, Jaewon J Lee, Adam Officer, Christian Max Schmidt, Howard H Wu, Courtney L Scaife, Kajsa E Affolter, Daniela Nachmanson, Matthew A Firpo, Michele Yip-Schneider, Andrew M Lowy, Olivier Harismendy, Subrata Sen, Anirban Maitra, Yasminka A Jakubek, Paola A Guerrero" 
+
+    year: 2023 
+
+    journal: 'Cancer research communications. <span class="j-year">2023</span>' 
+
+    url_external: "https://pubmed.ncbi.nlm.nih.gov/37721516/" 
+
+    
+
+  - code: "10liang_2023_cancers_basel" 
+
+    title: "Comparative Analyses of the Clinicopathologic Features of Short-Term and Long-Term Survivors of Patients with Pancreatic Ductal Adenocarcinoma Who Received Neoadjuvant Therapy and Pancreatoduodenectomy" 
+
+    authors_text: "Tom Z. Liang, Matthew H. G. Katz, Laura R. Prakash, Deyali Chatterjee, Hua Wang, Michael Kim, Ching-Wei D. Tzeng, Naruhiko Ikoma, Robert A. Wolff, Dan Zhao, Eugene J. Koay, Anirban Maitra, Suprateek Kundu, Huamin Wang" 
+
+    year: 2023 
+
+    journal: 'Cancers. <span class="j-year">2023</span>' 
+
+    url_external: "https://doi.org/10.3390/cancers15123231" 
+
+    
+
+  - code: "11tong_2023_cancers_basel" 
+
+    title: "Prognosticators for Patients with Pancreatic Ductal Adenocarcinoma Who Received Neoadjuvant FOLFIRINOX or Gemcitabine/Nab-Paclitaxel Therapy and Pancreatectomy" 
+
+    authors_text: "Yi Tat Tong, Zongshan Lai, Matthew H. G. Katz, Laura R Prakash, Hua Wang, Deyali Chatterjee, Michael Kim, Ching-Wei D. Tzeng, Jeffrey E. Lee, Naruhiko Ikoma, Asif Rashid, Robert A. Wolff, Dan Zhao, Eugene J. Koay, Anirban Maitra, Huamin Wang" 
+
+    year: 2023 
+
+    journal: 'Cancers. <span class="j-year">2023</span>' 
+
+    url_external: "https://doi.org/10.3390/cancers15092608" 
+
+    
+
+  - code: "12halbrook_2023_cell" 
+
+    title: "Pancreatic cancer: Advances and challenges" 
+
+    authors_text: "Christopher J. Halbrook, Costas A. Lyssiotis, Marina Pasca di Magliano, Anirban Maitra" 
+
+    year: 2023 
+
+    journal: 'Cell. <span class="j-year">2023</span>' 
+
+    url_external: "https://doi.org/10.1016/j.cell.2023.02.014" 
+
+    
+
+  - code: "13mahadevan_2023_dev_cell" 
+
+    title: "Elimination of oncogenic KRAS in genetic mouse models eradicates pancreatic cancer by inducing FAS-dependent apoptosis by CD8+ T cells" 
+
+    authors_text: "Krishnan K Mahadevan, Valerie S LeBleu, Elena V Ramirez, Yang Chen, Bingrui Li, Amari M Sockwell, Mihai Gagea, Hikaru Sugimoto, Lakshmi Kavitha Sthanam, Desiree Tampe, Michael Zeisberg, Haoqiang Ying, Abhinav K Jain, Ronald A DePinho, Anirban Maitra, Kathleen M McAndrews, Raghu Kalluri" 
+
+    year: 2023 
+
+    journal: 'Developmental cell. <span class="j-year">2023</span>' 
+
+    url_external: "https://pubmed.ncbi.nlm.nih.gov/37625403/" 
+
+    
+
+  - code: "14cephas_2023_gut" 
+
+    title: "It is better to light a candle than to curse the darkness: single-cell transcriptomics sheds new light on pancreas biology and disease" 
+
+    authors_text: "Amelia T Cephas, William L Hwang, Anirban Maitra, Oren Parnas, Kathleen E DelGiorno" 
+
+    year: 2023 
+
+    journal: 'Gut. <span class="j-year">2023</span>' 
+
+    url_external: "https://doi.org/10.1136/gutjnl-2022-329313" 
+
+    
+
+  - code: "15purushothaman_2023_int_j_mol_sci" 
+
+    title: "Differential Effects of Pancreatic Cancer-Derived Extracellular Vesicles Driving a Suppressive Environment" 
+
+    authors_text: "Anurag Purushothaman, Jacqueline Oliva-Ramírez, Warapen Treekitkarnmongkol, Deivendran Sankaran, Mark W Hurd, Nagireddy Putluri, Anirban Maitra, Cara Haymaker, Subrata Sen" 
+
+    year: 2023 
+
+    journal: 'International journal of molecular sciences. <span class="j-year">2023</span>' 
+
+    url_external: "https://pubmed.ncbi.nlm.nih.gov/37834100/" 
+
+    
+
+  - code: "16chen_2023_j_clin_gastroenterol" 
+
+    title: "Risk Prediction of Pancreatic Cancer in Patients With Recent-onset Hyperglycemia: A Machine-learning Approach" 
+
+    authors_text: "Wansu Chen, Rebecca K. Butler, Eva Lustigova, Suresh T. Chari Anirban Maitra, Jo A. Rinaudo, Bechien U. Wu" 
+
+    year: 2023 
+
+    journal: 'Journal of clinical gastroenterology. <span class="j-year">2023</span>' 
+
+    url_external: "https://doi.org/10.1097/MCG.0000000000001710" 
+
+    
+
+  - code: "17wang_2023_j_clin_invest" 
+
+    title: "Hematopoietic progenitor kinase 1 inhibits the development and progression of pancreatic intraepithelial neoplasia" 
+
+    authors_text: "Hua Wang, Rohan Moniruzzaman, Lei Li, Baoan Ji, Yi Liu, Xiangsheng Zuo, Reza Abbasgholizadeh, Jun Zhao, Guangchao Liu, Ruiqi Wang, Hongli Tang, Ryan Sun, Xiaoping Su, Tse-Hua Tan, Anirban Maitra, Huamin Wang" 
+
+    year: 2023 
+
+    journal: 'The Journal of clinical investigation. <span class="j-year">2023</span>' 
+
+    url_external: "https://doi.org/10.1172/JCI163873" 
+
+    
+
+  - code: "18kolbinger_2023_j_gastrointest_cancer" 
+
+    title: "Significance of Distinct Liquid Biopsy Compartments in Evaluating Somatic Mutations for Targeted Therapy Selection in Cancer of Unknown Primary" 
+
+    authors_text: "Fiona R. Kolbinger, Vincent Bernard, Jaewon J. Lee, Bret M. Stephens, Vittorio Branchi, Kanwal P. S. Raghav, Anirban Maitra, Paola A. Guerrero, Alexander Semaan" 
+
+    year: 2023 
+
+    journal: 'Journal of gastrointestinal cancer. <span class="j-year">2023</span>' 
+
+    url_external: "https://doi.org/10.1007/s12029-023-00922-7" 
+
+    
+
+  - code: "19yousef_2023_research_square_preprint" 
+
+    title: "Impact of KRAS Mutations and Co-mutations on Clinical Outcomes in Pancreatic Ductal Adenocarcinoma" 
+
+    authors_text: "Abdelrahman Yousef, Mahmoud Yousef, Saikat Chowdhury, Kawther Abdilleh, Mark Knafl, Paul Edelkamp, Kristin Alfaro-Munoz, Ray Chacko, Jennifer Peterson, Brandon G Smaglo, Robert A Wolff, Shubham Pant, Michael S Lee, Jason Willis, Michael Overman, Sudheer Doss, Lynn Matrisian, Mark W Hurd, Rebecca Snyder, Matthew H G Katz, Huamin Wang, Anirban Maitra, John Paul Shen, Dan Zhao" 
+
+    year: 2023 
+
+    journal: 'Research Square. <span class="j-year">2023</span>' 
+
+    url_external: "https://pubmed.ncbi.nlm.nih.gov/37609177/" 
+
+    
+
+  - code: "20chen_2023_trends_cancer" 
+
+    title: "Anxiolytics cause anxiety in pancreatic cancer" 
+
+    authors_text: "Yang Chen, Anirban Maitra" 
+
+    year: 2023 
+
+    journal: 'Trends in cancer. <span class="j-year">2023</span>' 
+
+    url_external: "https://pubmed.ncbi.nlm.nih.gov/37778962/" 
+
+  
+
+    
+
+  - code: "1gan_2022_cancer_cytopathol" 
+
+    title: "Adequacy evaluation and use of pancreatic adenocarcinoma specimens for next-generation sequencing acquired by endoscopic ultrasound-guided FNA and FNB" 
+
+    authors_text: "Qiong Gan, Sinchita Roy-Chowdhuri, Dzifa Yawa Duose, John M. Stewart, Emmanuel Coronel, Manoop S. Bhutani, Jeffrey H. Lee, Brian Weston, Phillip S. Ge, William A. Ross, Anirban Maitra" 
+
+    year: 2022 
+
+    journal: 'Cancer cytopathology. <span class="j-year">2022</span>' 
+
+    url_external: "https://doi.org/10.1002/cncy.22533" 
+
+    
+
+  - code: "2amit_2022_cancer_discov" 
+
+    title: "The Boring Schwann Cells: Tumor Me-TAST-asis along Nerves" 
+
+    authors_text: "Moran Amit, Anirban Maitra" 
+
+    year: 2022 
+
+    journal: 'Cancer discovery. <span class="j-year">2022</span>' 
+
+    url_external: "https://doi.org/10.1158/2159-8290.CD-22-0829" 
+
+    
+
+  - code: "3thege_2022_cancer_res" 
+
+    title: "A Programmable In Vivo CRISPR Activation Model Elucidates the Oncogenic and Immunosuppressive Functions of MYC in Lung Adenocarcinoma" 
+
+    authors_text: "Fredrik I. Thege, Dhwani N. Rupani, Bhargavi Brahmendra Barathi, Sara L. Manning, Anirban Maitra, Andrew D. Rhim, Sonja M. Wörmann" 
+
+    year: 2022 
+
+    journal: 'Cancer research. <span class="j-year">2022</span>' 
+
+    url_external: "https://doi.org/10.1158/0008-5472.CAN-21-4009" 
+
+    
+
+  - code: "4hernandez_2022_clin_cancer_res" 
+
+    title: "Diminished Immune Surveillance during Histologic Progression of Intraductal Papillary Mucinous Neoplasms Offers a Therapeutic Opportunity for Cancer Interception" 
+
+    authors_text: "Sharia Hernandez; Edwin Roger Parra, Naohiro Uraoka, Ximing Tang, Yu Shen, Wei Qiao, Mei Jiang, Shanyu Zhang, Barbara Mino, Wei Lu, Renganayaki Pandurengan, Cara Haymaker, Kajsa Affolter, Courtney L. Scaife, Michele Yip-Schneider, C. Max Schmidt, Matthew A. Firpo, Sean J. Mulvihill, Eugene J. Koay, Huamin Wang, Ignacio I. Wistuba, Anirban Maitra, Luisa M. Solis, Subrata Sen" 
+
+    year: 2022 
+
+    journal: 'Clinical cancer research. <span class="j-year">2022</span>' 
+
+    url_external: "https://doi.org/10.1158/1078-0432.CCR-21-2585" 
+
+    
+
+  - code: "5bagley_2022_clin_transl_radiat_oncol" 
+
+    title: "NBTXR3, a first-in-class radioenhancer for pancreatic ductal adenocarcinoma: Report of first patient experience" 
+
+    authors_text: "Alexander F. Bagley, Ethan B. Ludmir, Anirban Maitra, Bruce D. Minsky, Grace Li Smith, Prajnan Das, Albert C. Koong, Emma B. Holliday, Cullen M. Taniguchi, Matthew H.G. Katz, Eric P. Tamm, Robert A. Wolff, Michael J. Overman, Shivani Patel, Michael P. Kim, Ching-Wei D. Tzeng, Naruhiko Ikoma, Manoop S. Bhutani, Eugene J. Koay" 
+
+    year: 2022 
+
+    journal: 'Clinical and translational radiation oncology. <span class="j-year">2022</span>' 
+
+    url_external: "https://doi.org/10.1016/j.ctro.2021.12.012" 
+
+    
+
+  - code: "6chari_2022_contemp_clin_trials" 
+
+    title: "Early Detection Initiative: A randomized controlled trial of algorithm-based screening in patients with new onset hyperglycemia and diabetes for early detection of pancreatic ductal adenocarcinoma" 
+
+    authors_text: "Suresh T. Chari, Anirban Maitra, Lynn M. Matrisian, Eva E. Shrader, Bechien U. Wu, Avinash Kambadakone, Ying-Qi Zhao, Barbara Kenner, Jo Ann S. Rinaudo, Sudhir Srivastava, Ying Huang, Ziding Feng" 
+
+    year: 2022 
+
+    journal: 'Contemporary clinical trials. <span class="j-year">2022</span>' 
+
+    url_external: "https://doi.org/10.1016/j.cct.2021.106659" 
+
+    
+
+  - code: "7kasliwal_2022_gastroenterology" 
+
+    title: "Implementation of a Video-based Remote Germline Testing for Individuals With Pancreatic Ductal Adenocarcinoma" 
+
+    authors_text: "Saumya Kasliwal, Seyda Baydogan, Devon Harrison, Maureen Mork, Anirban Maitra, Florencia Mcallister" 
+
+    year: 2022 
+
+    journal: 'Gastroenterology. <span class="j-year">2022</span>' 
+
+    url_external: "https://doi.org/10.1053/j.gastro.2022.03.026" 
+
+    
+
+  - code: "8garcia_2022_gastroenterology" 
+
+    title: "Stromal HIF2 Regulates Immune Suppression in the Pancreatic Cancer Microenvironment" 
+
+    authors_text: "Carolina J. Garcia Garcia, Yanqing Huang, Natividad R. Fuentes, Madeleine C. Turner, Maria E. Monberg, Daniel Lin, Nicholas D. Nguyen, Tara N. Fujimoto, Jun Zhao, Jaewon J. Lee, Vincent Bernard, Meifang Yu, Abagail M. Delahoussaye, Iancarlos Jimenez Sacarello, Emily G. Caggiano, Jae L. Phan, Amit Deorukhkar, Jessica M. Molkentine, Dieter Saur, Anirban Maitra, Cullen M. Taniguchi" 
+
+    year: 2022 
+
+    journal: 'Gastroenterology. <span class="j-year">2022</span>' 
+
+    url_external: "https://doi.org/10.1053/j.gastro.2022.02.024" 
+
+    
+
+  - code: "9hosein_2022_gastroenterology" 
+
+    title: "Loss of Rnf43 Accelerates Kras-Mediated Neoplasia and Remodels the Tumor Immune Microenvironment in Pancreatic Adenocarcinoma" 
+
+    authors_text: "Abdel Nasser Hosein, Gita Dangol, Takashi Okumura, Jason Roszik, Kimal Rajapakshe, Megan Siemann, Mohamed Zaid, Bidyut Ghosh, Maria Monberg, Paola A. Guerrero, Aatur Singhi, Cara L. Haymaker, Hans Clevers, Lotfi Abou-Elkacem, Sonja M. Woermann, Anirban Maitra" 
+
+    year: 2022 
+
+    journal: 'Gastroenterology. <span class="j-year">2022</span>' 
+
+    url_external: "https://doi.org/10.1053/j.gastro.2021.12.273" 
+
+    
+
+  - code: "10butler_2022_gene_ther" 
+
+    title: "Membrane-bound MMP-14 protease-activatable adeno-associated viral vectors for gene delivery to pancreatic tumors" 
+
+    authors_text: "Susan S Butler, Kenjiro Date, Takashi Okumura, Cooper Lueck, Bidyut Ghosh, Anirban Maitra, Junghae Suh" 
+
+    year: 2022 
+
+    journal: 'Gene therapy. <span class="j-year">2022</span>' 
+
+    url_external: "https://pubmed.ncbi.nlm.nih.gov/33958732/" 
+
+    
+
+  - code: "11zhang_2022_j_hematol_oncol" 
+
+    title: "Correction: Innate immune mediator, Interleukin-1 receptor accessory protein (IL1RAP), is expressed and pro-tumorigenic in pancreatic cancer" 
+
+    authors_text: " Yang Zhang, Xiaoyi Chen, Huamin Wang, Shanisha Gordon-Mitchell, Srabani Sahu, Tushar D Bhagat, Gaurav Choudhary, Srinivas Aluri, Kith Pradhan, Plabani Sahu, Milagros Carbajal, Hui Zhang, Beamon Agarwal, Aditi Shastri, Robert Martell, Daniel Starczynowski, Ulrich Steidl, Anirban Maitra, Amit Verma" 
+
+    year: 2022 
+
+    journal: 'Journal of hematology & oncology. <span class="j-year">2022</span>' 
+
+    url_external: "https://pubmed.ncbi.nlm.nih.gov/35883108/" 
+
+    
+
+  - code: "12zhang_2022_j_hematol_oncol" 
+
+    title: "Innate immune mediator, Interleukin-1 receptor accessory protein (IL1RAP), is expressed and pro-tumorigenic in pancreatic cancer" 
+
+    authors_text: "Yang Zhang, Xiaoyi Chen, Huamin Wang, Shanisha Gordon-Mitchell, Srabani Sahu, Tushar D. Bhagat, Gaurav Choudhary, Srinivas Aluri, Kith Pradhan, Plabani Sahu, Milagros Carbajal, Hui Zhang, Beamon Agarwal, Aditi Shastri, Robert Martell, Daniel Starczynowski, Ulrich Steidl, Anirban Maitra, Amit Verma" 
+
+    year: 2022 
+
+    journal: 'Journal of hematology & oncology. <span class="j-year">2022</span>' 
+
+    url_external: "https://doi.org/10.1186/s13045-022-01286-4" 
+
+    
+
+  - code: "13grewal_2022_jmir_cancer" 
+
+    title: "Twitter Conversations About Pancreatic Cancer by Health Care Providers and the General Public: Thematic Analysis" 
+
+    authors_text: "Udhayvir Singh Grewal, Arjun Gupta, Jamie Doggett, Emil Lou, Niraj J Gusani, Anirban Maitra, Muhammad Shaalan, Allyson J Ocean" 
+
+    year: 2022 
+
+    journal: 'JMIR cancer. <span class="j-year">2022</span>' 
+
+    url_external: "https://doi.org/10.2196/31388" 
+
+    
+
+  - code: "14hosein_2022_nat_cancer" 
+
+    title: "Translational advances in pancreatic ductal adenocarcinoma therapy" 
+
+    authors_text: "Abdel Nasser Hosein, Stephanie K. Dougan, Andrew J. Aguirre, Anirban Maitra" 
+
+    year: 2022 
+
+    journal: 'Nature cancer. <span class="j-year">2022</span>' 
+
+    url_external: "https://doi.org/10.1038/s43018-022-00349-2" 
+
+    
+
+  - code: "15monberg_2022_nat_commun" 
+
+    title: "Occult polyclonality of preclinical pancreatic cancer models drives in vitro evolution" 
+
+    authors_text: "Maria E. Monberg, Heather Geiger, Jaewon J. Lee, Roshan Sharma, Alexander Semaan, Vincent Bernard, Justin Wong, Fang Wang, Shaoheng Liang, Daniel B. Swartzlander, Bret M. Stephens, Matthew H. G. Katz, Ken Chen, Nicolas Robine, Paola A. Guerrero, Anirban Maitra" 
+
+    year: 2022 
+
+    journal: 'Nature communications. <span class="j-year">2022</span>' 
+
+    url_external: "https://doi.org/10.1038/s41467-022-31376-3" 
+
+    
+
+  - code: "16li_2022_pancreatology" 
+
+    title: "Integrative transcriptomic analysis identifies a novel gene signature to predict prognosis of pancreatic cancer in different subtypes" 
+
+    authors_text: "Cordelia Y. Li, Kimal I. Rajapakshe, Anirban Maitra" 
+
+    year: 2022 
+
+    journal: 'Pancreatology. <span class="j-year">2022</span>' 
+
+    url_external: "https://doi.org/10.1016/j.pan.2022.08.007" 
+
+    
+
+  - code: "17mohindroo_2022_surg_pathol_clin" 
+
+    title: "The Evolving Paradigm of Germline Testing in Pancreatic Ductal Adenocarcinoma and Implications for Clinical Practice" 
+
+    authors_text: "Chirayu Mohindroo, Ana De Jesus-Acosta, Matthew B. Yurgelun, Anirban Maitra,  Mureen Mork, Florencia McAllister" 
+
+    year: 2022 
+
+    journal: 'Surgical pathology clinics. <span class="j-year">2022</span>' 
+
+    url_external: "https://doi.org/10.1016/j.path.2022.05.004" 
+
+  
+
+    
+
+  - code: "1semaan_2021_br_j_cancer" 
+
+    title: "Characterisation of circulating tumour cell phenotypes identifies a partial-EMT sub-population for clinical stratification of pancreatic cancer" 
+
+    authors_text: "Alexander Semaan, Vincent Bernard, Dong U Kim, Jaewon J Lee, Jonathan Huang, Nabiollah Kamyabi, Bret M Stephens, Wei Qiao, Gauri R Varadhachary, Matthew H Katz, Yu Shen, Francis Anthony San Lucas, Peter Gascoyne, Hector A Alvarez, Anirban Maitra, Paola A Guerrero" 
+
+    year: 2021 
+
+    journal: 'British journal of cancer. <span class="j-year">2021</span>' 
+
+    url_external: "https://pubmed.ncbi.nlm.nih.gov/33785875/" 
+
+    
+
+  - code: "2furniss_2021_cancer_prev_res_phila" 
+
+    title: "Novel Models of Genetic Education and Testing for Pancreatic Cancer Interception: Preliminary Results from the GENERATE Study" 
+
+    authors_text: "C Sloane Furniss, Matthew B Yurgelun, Chinedu Ukaegbu, Pamela E Constantinou, Catherine C Lafferty, Eliana R Talcove-Berko, Alison N Schwartz, Jill E Stopfer, Meghan Underhill-Blazey, Barbara Kenner, Scott H Nelson, Sydney Okumura, Sherman Law, Alicia Y Zhou, Tara B Coffin, Nicolette J Rodriguez, Hajime Uno, Allyson J Ocean, Florencia McAllister, Andrew M Lowy, Scott M Lippman, Alison P Klein, Lisa Madlensky, Gloria M Petersen, Judy E Garber, Michael G Goggins, Anirban Maitra, Sapna Syngal" 
+
+    year: 2021 
+
+    journal: 'Cancer prevention research. <span class="j-year">2021</span>' 
+
+    url_external: "https://pubmed.ncbi.nlm.nih.gov/34625409/" 
+
+    
+
+  - code: "3marcus_2021_cancers_basel" 
+
+    title: "Oncogenic KRAS Requires Complete Loss of BAP1 Function for Development of Murine Intrahepatic Cholangiocarcinoma" 
+
+    authors_text: "Rebecca Marcus, Sammy Ferri-Borgogno, Abdel Hosein, Wai Chin Foo, Bidyut Ghosh, Jun Zhao, Kimal Rajapakshe, James Brugarolas, Anirban Maitra, Sonal Gupta" 
+
+    year: 2021 
+
+    journal: 'Cancers. <span class="j-year">2021</span>' 
+
+    url_external: "https://pubmed.ncbi.nlm.nih.gov/34830866/" 
+
+    
+
+  - code: "4lee_2021_clin_cancer_res" 
+
+    title: "Elucidation of Tumor-Stromal Heterogeneity and the Ligand-Receptor Interactome by Single-Cell Transcriptomics in Real-world Pancreatic Cancer Biopsies" 
+
+    authors_text: “Jaewon J Lee, Vincent Bernard, Alexander Semaan, Maria E Monberg, Jonathan Huang, Bret M Stephens, Daniel Lin, Kimal I Rajapakshe, Brian R Weston, Manoop S Bhutani, Cara L Haymaker, Chantale Bernatchez, Cullen M Taniguchi, Anirban Maitra, Paola A Guerrero" 
+
+    year: 2021 
+
+    journal: 'Clinical cancer research. <span class="j-year">2021</span>' 
+
+    url_external: "https://pubmed.ncbi.nlm.nih.gov/34426439/" 
+
+    
+
+  - code: "5semaan_2021_clin_cancer_res" 
+
+    title: "Defining the Comprehensive Genomic Landscapes of Pancreatic Ductal Adenocarcinoma Using Real-World Endoscopic Aspiration Samples" 
+
+    authors_text: "Alexander Semaan, Vincent Bernard, Jaewon J Lee, Justin W Wong, Jonathan Huang, Daniel B Swartzlander, Bret M Stephens, Maria E Monberg, Brian R Weston, Manoop S Bhutani, Kyle Chang, Paul A Scheet, Anirban Maitra, Yasminka A Jakubek, Paola A Guerrero" 
+
+    year: 2021 
+
+    journal: 'Clinical cancer research. <span class="j-year">2021</span>' 
+
+    url_external: "https://pubmed.ncbi.nlm.nih.gov/33188144/" 
+
+    
+
+  - code: "6trikudanathan_2021_curr_opin_gastroenterol" 
+
+    title: "Early detection of pancreatic cancer: current state and future opportunities" 
+
+    authors_text: "Guru Trikudanathan, Emil Lou, Anirban Maitra, Shounak Majumder" 
+
+    year: 2021 
+
+    journal: 'Current opinion in gastroenterology. <span class="j-year">2021</span>' 
+
+    url_external: "https://pubmed.ncbi.nlm.nih.gov/34387255/" 
+
+    
+
+  - code: "7garcia_2021_front_oncol" 
+
+    title: "HIF2 Regulates Intestinal Wnt5a Expression" 
+
+    authors_text: "Carolina J García García, Ariana C Acevedo Diaz, Neeraj Kumari, Suman Govindaraju, Marimar de la Cruz Bonilla, Anthony San Lucas, Nicholas D Nguyen, Iancarlos Jiménez Sacarello, Helen Piwnica-Worms, Anirban Maitra, Cullen M Taniguchi" 
+
+    year: 2021 
+
+    journal: 'Frontiers in oncology. <span class="j-year">2021</span>' 
+
+    url_external: "https://pubmed.ncbi.nlm.nih.gov/34900719/" 
+
+    
+
+  - code: "8fahrmann_2021_gastroenterology" 
+
+    title: "Lead-Time Trajectory of CA19-9 as an Anchor Marker for Pancreatic Cancer Early Detection" 
+
+    authors_text: "Johannes F Fahrmann, C Max Schmidt, Xiangying Mao, Ehsan Irajizad, Maureen Loftus, Jinming Zhang, Nikul Patel, Jody Vykoukal, Jennifer B Dennison, James P Long, Kim-Anh Do, Jianjun Zhang, John A Chabot, Michael D Kluger, Fay Kastrinos, Lauren Brais, Ana Babic, Kunal Jajoo, Linda S Lee, Thomas E Clancy, Kimmie Ng, Andrea Bullock, Jeanine Genkinger, Michele T Yip-Schneider, Anirban Maitra, Brian M Wolpin, Samir Hanash" 
+
+    year: 2021 
+
+    journal: 'Gastroenterology. <span class="j-year">2021</span>' 
+
+    url_external: "https://pubmed.ncbi.nlm.nih.gov/33333055/" 
+
+    
+
+  - code: "9azacu_2021_gastrointest_endosc" 
+
+    title: "Diagnostic value of digital droplet polymerase chain reaction and digital multiplexed detection of single-nucleotide variants in pancreatic cytology specimens collected by EUS-guided FNA" 
+
+    authors_text: "Irina M. Cazacu, Alexander Semaan, Bret Stephens, Daniel B. Swartzlander, Paola A. Guerrero, Ben S. Singh, Cristian Virgil Lungulescu, Mihaela Maria Danciulescu, Irina F. Cherciu Harbiyeli, Ioana Streata, Carmen Popescu, Adrian Saftoiu MD, Sinchita Roy-Chowdhuri, Anirban Maitra, Manoop S. Bhutani" 
+
+    year: 2021 
+
+    journal: 'Gastrointestinal endoscopy. <span class="j-year">2021</span>' 
+
+    url_external: "https://pubmed.ncbi.nlm.nih.gov/33058885/" 
+
+    
+
+  - code: "10wörmann_2021_nat_cancer" 
+
+    title: "APOBEC3A drives deaminase domain-independent chromosomal instability to promote pancreatic cancer metastasis" 
+
+    authors_text: "Sonja M. Wörmann, Amy Zhang, Fredrik I. Thege, Robert W. Cowan, Dhwani N. Rupani, Runsheng Wang, Sara L. Manning, Chris Gates, Weisheng Wu, Rena Levin-Klein, Kimal I. Rajapakshe, Meifang Yu, Asha S. Multani, Ya’an Kang, Cullen M. Taniguchi, Katharina Schlacher, Melena D. Bellin, Matthew H. G. Katz, Michael P. Kim, Jason B. Fleming, Steven Gallinger, Ravikanth Maddipati, Reuben S. Harris, Faiyaz Notta, Andrew D. Rhim" 
+
+    year: 2021 
+
+    journal: 'Nature cancer. <span class="j-year">2021</span>' 
+
+    url_external: "https://pubmed.ncbi.nlm.nih.gov/35121902/" 
+
+    
+
+  - code: "11han_2021_nat_rev_gastroenterol_hepatol" 
+
+    title: "Single-cell RNA sequencing in pancreatic cancer" 
+
+    authors_text: "Jincheng Han, Ronald A DePinho, Anirban Maitra" 
+
+    year: 2021 
+
+    journal: 'Nature reviews. Gastroenterology & hepatology. <span class="j-year">2021</span>' 
+
+    url_external: "https://pubmed.ncbi.nlm.nih.gov/34040169/" 
+
+    
+
+  - code: "12tong_2021_pancreatology" 
+
+    title: "GRP78 expression and prognostic significance in patients with pancreatic ductal adenocarcinoma treated with neoadjuvant therapy versus surgery first" 
+
+    authors_text: "Yi Tat Tong, Hua Wang, Dongguang Wei, Laura R Prakash, Michael Kim, Ching-Wei D Tzeng, Jeffrey E Lee, Asif Rashid, Eugene J Koay, Robert A Wolff, Anirban Maitra, Matthew HG Katz, Huamin Wang" 
+
+    year: 2021 
+
+    journal: 'Pancreatology. <span class="j-year">2021</span>' 
+
+    url_external: "https://pubmed.ncbi.nlm.nih.gov/34429247/" 
+
+    
+
+  - code: "13zhao_2021_pancreatology" 
+
+    title: "Overexpression of CD73 in pancreatic ductal adenocarcinoma is associated with immunosuppressive tumor microenvironment and poor survival" 
+
+    authors_text: "Jun Zhao, Luisa M Solis Soto, Hua Wang, Matthew H Katz, Laura R Prakash, Michael Kim, Ching-Wei D Tzeng, Jeffrey E Lee, Robert A Wolff, Yanqing Huang, Ignacio I Wistuba, Anirban Maitra, Huamin Wang" 
+
+    year: 2021 
+
+    journal: 'Pancreatology. <span class="j-year">2021</span>' 
+
+    url_external: "https://pubmed.ncbi.nlm.nih.gov/33832821/" 
+
+    
+
+  - code: "14wei_2021_pancreatology" 
+
+    title: "Clinicopathological correlation of radiologic measurement of post-therapy tumor size and tumor volume for pancreatic ductal adenocarcinoma" 
+
+    authors_text: "Dongguang Wei, Mohamed M Zaid, Matthew H Katz, Laura R Prakash, Michael Kim, Ching-Wei D Tzeng, Jeffrey E Lee, Anshuman Agrawal, Asif Rashid, Hua Wang, Gauri Varadhachary, Robert A Wolff, Eric P Tamm, Priya R Bhosale, Anirban Maitra, Eugene J Koay, Huamin Wang" 
+
+    year: 2021 
+
+    journal: 'Pancreatology. <span class="j-year">2021</span>' 
+
+    url_external: "https://pubmed.ncbi.nlm.nih.gov/33221151/" 
+
+    
+
+  - code: "15bray_2021_trends_cancer" 
+
+    title: "Roles and Regulations of TET Enzymes in Solid Tumors" 
+
+    authors_text: "Julie K. Bray, Meelad M. Dawlaty, Amit Verma, Anirban Maitra" 
+
+    year: 2021 
+
+    journal: 'Trends in cancer. <span class="j-year">2021</span>' 
+
+    url_external: https://pubmed.ncbi.nlm.nih.gov/33468438/ 
